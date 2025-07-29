@@ -38,7 +38,7 @@
 
 ### Real-world Robot Datasets
 | Year | Venue | Paper | Website | Code | Data |
-|------|-------|-------|-----------|------|------|
+|------|-------|-------|---------|------|------|
 | 2021 | CoRL  | [Bc-z: Zero-shot task generalization with robotic imitation learning](https://proceedings.mlr.press/v164/jang22a/jang22a.) | [🌐](https://sites.google.com/view/bc-z/home) | [💻](https://github.com/google-research/tensor2robot/tree/master/research/bcz) | [📦](https://www.kaggle.com/datasets/google/bc-z-robot) |
 
 ---
