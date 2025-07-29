@@ -1,1 +1,1 @@
-# VLA-Survey
+# Awesome VLA for Robotic Manipulation
