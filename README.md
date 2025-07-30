@@ -135,25 +135,46 @@
 ### Reinforcement Learning-based Methods
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
-| 2025 | ICLR(Workshop)  | [GRAPE: Generalizing Robot Policy via Preference Alignment](https://openreview.net/pdf?id=XnwyFD1Fvw&utm_source=chatgpt.com) | [🌐](https://grape-vla.github.io/) | [💻](https://github.com/aiming-lab/grape) |
+| 2025 | ICLR(Workshop) | [GRAPE: Generalizing Robot Policy via Preference Alignment](https://openreview.net/pdf?id=XnwyFD1Fvw&utm_source=chatgpt.com) | [🌐](https://grape-vla.github.io/) | [💻](https://github.com/aiming-lab/grape) |
 | 2025 | arXiv | [Vla-rl: Towards masterful and general robotic manipulation with scalable reinforcement learning](https://arxiv.org/abs/2505.18719) | - | [💻](https://github.com/GuanxingLu/vlarl) |
 | 2025 | RSS | [ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations](https://openreview.net/pdf?id=a6lsCozWyM) | [🌐](https://rewind-reward.github.io/) | - |
 | 2025 | RSS | [ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](https://www.roboticsproceedings.org/rss21/p019.pdf) | [🌐](https://cccedric.github.io/conrft/) | [💻](https://github.com/cccedric/conrft) |
-| 2025| arXiv | [TGRPO: Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization](https://arxiv.org/abs/2506.08440) | - | - |
+| 2025 | RSS | [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://www.roboticsproceedings.org/rss21/p028.pdf) | [🌐](https://generalist-distillation.github.io/) | - |
+| 2025 | arXiv | [TGRPO: Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization](https://arxiv.org/abs/2506.08440) | - | - |
+| 2025 | ICRA | [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664) | - | - |
+| 2025 | CVPR(Workshop) | [Interactive Post‑Training for Vision‑Language‑Action Models](https://arxiv.org/abs/2505.17016) | [🌐](https://ariostgx.github.io/ript_vla/) | [💻](https://github.com/Ariostgx/ript-vla) |
+
 ---
 
 ### Training-Free Methods
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
-
+| 2025 | arXiv | [Think Twice, Act Once: Token‑Aware Compression and Action Reuse for Efficient Inference in Vision‑Language‑Action Models](https://arxiv.org/abs/2505.21200) | – | – |
+| 2025 | arXiv | [EfficientVLA: Training‑Free Acceleration and Compression for Vision‑Language‑Action Models](https://arxiv.org/abs/2506.10100) | – | – |
+| 2025 | arXiv | [VLA‑Cache: Towards Efficient Vision‑Language‑Action Model via Adaptive Token Caching in Robotic Manipulation](https://arxiv.org/abs/2502.02175) | – | [💻](https://github.com/siyuhsu/vla-cache) |
 ---
 
 ### Learning from Human Videos
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
-
+| 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://arxiv.org/pdf/2403.09631) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) | 
+<!-- | 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://proceedings.mlr.press/v235/zhen24a.html) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) | -->
+| 2024 | NeurIPS | [Learning an Actionable Discrete Diffusion Policy via Large‑Scale Actionless Video Pre‑Training](https://proceedings.neurips.cc/paper_files/paper/2024/file/378226e5df7eded3e401de5c9493143c-Paper-Conference.pdf) | [🌐](https://video-diff.github.io/) | [💻](https://github.com/tinnerhrhe/VPDD) |
+| 2025 | CVPR | [Mitigating the Human‑Robot Domain Discrepancy in Visual Pre‑training for Robotic Manipulation](https://cvpr.thecvf.com/virtual/2025/poster/32537) | [🌐](https://jiaming-zhou.github.io/projects/HumanRobotAlign) | [💻](https://github.com/jiaming-zhou/HumanRobotAlign) |
+| 2025 | RSS | [UniVLA: Learning to Act Anywhere with Task‑centric Latent Actions](https://www.roboticsproceedings.org/rss21/p014.pdf) | – | [💻](https://github.com/OpenDriveLab/UniVLA) |
+| 2025 | ICLR | [Latent Action Pretraining from Videos](https://openreview.net/pdf?id=VYOe2eBQeh) | [🌐](https://latentactionpretraining.github.io/) | [💻](https://github.com/LatentActionPretraining/LAPA) |
+| 2025 | arXiv | [Humanoid‑VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795) | – | – |
 ---
 
 ### World Model-based VLA
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
+| 2024 | CVPR | [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.pdf) | [🌐](https://nvlabs.github.io/FoundationPose/) | [💻](https://github.com/NVlabs/FoundationPose) |
+| 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://arxiv.org/pdf/2403.09631) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) | 
+| 2025 | arXiv | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | - | [💻](https://github.com/alibaba-damo-academy/WorldVLA) |
+| 2025 | arXiv | [World4Omni: A Zero‑Shot Framework from Image Generation World Model to Robotic Manipulation](https://arxiv.org/abs/2506.23919) | [🌐](https://world4omni.github.io/) | – |
+| 2025 | arXiv | [Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations](https://arxiv.org/abs/2507.00990) | [🌐](https://rigvid-robot.github.io/) | [💻](https://github.com/shivanshpatel35/rigvid) |
+| 2025 | arXiv | [V‑JEPA 2: Self‑Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | [🌐](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/) | [💻](https://github.com/facebookresearch/vjepa2) |
+
+
+
