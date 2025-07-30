@@ -98,7 +98,7 @@
 | 2025 | - | [FiS-VLA: Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [💻](https://github.com/CHEN-H01/Fast-in-Slow) |
 | 2025 | - | [BitVLA: 1-Bit Vision-Language-Action Models for Robotics Manipulation](https://arxiv.org/abs/2506.07530) | [🌐]() | [💻](https://github.com/ustcwhy/BitVLA?tab=readme-ov-file) |
 | 2025 | - | [BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models](https://arxiv.org/abs/2506.07961) | [🌐](https://bridgevla.github.io/home_page.html) | [💻](https://github.com/BridgeVLA/BridgeVLA) |
-| 2025 | - | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | [🌐]() | [💻](WorldVLA: Towards Autoregressive Action World Model) |
+| 2025 | - | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | [🌐]() | [💻](https://github.com/alibaba-damo-academy/WorldVLA) |
 | 2025 | - | [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116) | [🌐]() | [💻]() |
 
 
