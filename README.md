@@ -128,6 +128,7 @@
 | 2025 | arXiv | [Embodied-R: Collaborative framework for activating embodied spatial reasoning in foundation models via reinforcement learning](https://arxiv.org/abs/2504.12680) | [🌐](https://embodiedcity.github.io/Embodied-R/) | [💻](https://github.com/EmbodiedCity/Embodied-R.code) |
 | 2025 | CVPR | [RoVI: Robotic Visual Instruction](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Robotic_Visual_Instruction_CVPR_2025_paper.pdf) | [🌐](https://robotic-visual-instruction.github.io/) | - |
 | 2025 | arXiv | [ReLEP: Long-horizon embodied planning with implicit logical inference and hallucination mitigation](https://arxiv.org/abs/2409.15658) | - | - |
+| 2025 | CVPR | [RoboBrain: A unified brain model for robotic manipulation from abstract to concrete](https://openaccess.thecvf.com/content/CVPR2025/papers/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.pdf) | [🌐](https://superrobobrain.github.io/) | [💻](https://github.com/FlagOpen/RoboBrain2.0) |
 
 ---
 
@@ -147,7 +148,6 @@
 | 2025 | ICLR | [HAMSTER: Hierarchical action models for open-world robot manipulation](https://arxiv.org/abs/2503.21696) | [🌐](https://hamster-robot.github.io/) | [💻](https://github.com/liyi14/HAMSTER_beta) |
 | 2025 | ICML | [HiRobot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/abs/2502.19417) | [🌐](https://www.pi.website/research/hirobot) | - |
 | 2025 | arXiv | [Agentic Robot: A brain-inspired framework for vision-language-action models in embodied agents](https://arxiv.org/abs/2505.23450) | [🌐](https://agentic-robot.github.io/) | [💻](https://github.com/Agentic-Robot/agentic-robot) |
-| 2025 | CVPR | [RoboBrain: A unified brain model for robotic manipulation from abstract to concrete](https://openaccess.thecvf.com/content/CVPR2025/papers/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.pdf) | [🌐](https://superrobobrain.github.io/) | [💻](https://github.com/FlagOpen/RoboBrain2.0) |
 | 2025 | arXiv | [DexVLA: Vision-language model with plug-in diffusion expert for general robot control](https://arxiv.org/abs/2502.05855) | [🌐](https://dex-vla.github.io/) | [💻](https://github.com/juruobenruo/DexVLA) |
 | 2025 | arXiv | [PointVLA: Injecting the 3D world into vision-language-action models](https://arxiv.org/abs/2503.07511) | [🌐](https://pointvla.github.io/) | - |
 | 2025 | arXiv | [A0: An affordance-aware hierarchical model for general robotic manipulation](https://arxiv.org/abs/2504.12636) | [🌐](https://a-embodied.github.io/A0/) | [💻](https://github.com/A-embodied/A0) |
