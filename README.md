@@ -190,13 +190,13 @@
 ### Learning from Human Videos
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
-| 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://arxiv.org/pdf/2403.09631) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) | 
-<!-- | 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://proceedings.mlr.press/v235/zhen24a.html) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) | -->
+| 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://arxiv.org/pdf/2403.09631) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) |
 | 2024 | NeurIPS | [Learning an Actionable Discrete Diffusion Policy via Large‑Scale Actionless Video Pre‑Training](https://proceedings.neurips.cc/paper_files/paper/2024/file/378226e5df7eded3e401de5c9493143c-Paper-Conference.pdf) | [🌐](https://video-diff.github.io/) | [💻](https://github.com/tinnerhrhe/VPDD) |
 | 2025 | CVPR | [Mitigating the Human‑Robot Domain Discrepancy in Visual Pre‑training for Robotic Manipulation](https://cvpr.thecvf.com/virtual/2025/poster/32537) | [🌐](https://jiaming-zhou.github.io/projects/HumanRobotAlign) | [💻](https://github.com/jiaming-zhou/HumanRobotAlign) |
 | 2025 | RSS | [UniVLA: Learning to Act Anywhere with Task‑centric Latent Actions](https://www.roboticsproceedings.org/rss21/p014.pdf) | – | [💻](https://github.com/OpenDriveLab/UniVLA) |
 | 2025 | ICLR | [Latent Action Pretraining from Videos](https://openreview.net/pdf?id=VYOe2eBQeh) | [🌐](https://latentactionpretraining.github.io/) | [💻](https://github.com/LatentActionPretraining/LAPA) |
 | 2025 | arXiv | [Humanoid‑VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795) | – | – |
+<!-- | 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://proceedings.mlr.press/v235/zhen24a.html) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) | -->
 ---
 
 ### World Model-based VLA
