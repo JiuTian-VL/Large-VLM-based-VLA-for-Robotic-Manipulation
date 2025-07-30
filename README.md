@@ -104,7 +104,11 @@
 ### Reinforcement Learning-based Methods
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
-
+| 2025 | ICLR(Workshop)  | [GRAPE: Generalizing Robot Policy via Preference Alignment](https://openreview.net/pdf?id=XnwyFD1Fvw&utm_source=chatgpt.com) | [🌐](https://grape-vla.github.io/) | [💻](https://github.com/aiming-lab/grape) |
+| 2025 | arXiv | [Vla-rl: Towards masterful and general robotic manipulation with scalable reinforcement learning](https://arxiv.org/abs/2505.18719) | - | [💻](https://github.com/GuanxingLu/vlarl) |
+| 2025 | RSS | [ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations](https://openreview.net/pdf?id=a6lsCozWyM) | [🌐](https://rewind-reward.github.io/) | - |
+| 2025 | RSS | [ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](https://www.roboticsproceedings.org/rss21/p019.pdf) | [🌐](https://cccedric.github.io/conrft/) | [💻](https://github.com/cccedric/conrft) |
+| 2025| arXiv | [TGRPO: Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization](https://arxiv.org/abs/2506.08440) | - | - |
 ---
 
 ### Training-Free Methods
