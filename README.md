@@ -95,7 +95,6 @@
 | 2025 | arXiv | [ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning](https://arxiv.org/abs/2505.19080) | [🌐](-) | [💻](-) |
 | 2025 | arXiv | [FLashVLA: Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models](https://arxiv.org/abs/2505.21200) | [🌐](-) | [💻](-) |
 | 2025 | arXiv | [LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2506.00411) | [🌐](-) | [💻](-) |
-| 2025 | arXiv | [FiS-VLA: Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [💻](https://github.com/CHEN-H01/Fast-in-Slow) |
 | 2025 | arXiv | [BitVLA: 1-Bit Vision-Language-Action Models for Robotics Manipulation](https://arxiv.org/abs/2506.07530) | [🌐](-) | [💻](https://github.com/ustcwhy/BitVLA?tab=readme-ov-file) |
 | 2025 | arXiv | [BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models](https://arxiv.org/abs/2506.07961) | [🌐](https://bridgevla.github.io/home_page.html) | [💻](https://github.com/BridgeVLA/BridgeVLA) |
 | 2025 | arXiv | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | [🌐](-) | [💻](https://github.com/alibaba-damo-academy/WorldVLA) |
