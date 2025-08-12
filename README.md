@@ -80,6 +80,7 @@
 | 2024 | ICRA | [ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models](https://arxiv.org/abs/2409.15250) | [🌐](https://insait-institute.github.io/ReVLA/) | [💻](-) |
 | 2024 | NeurIPS | [DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution](https://arxiv.org/abs/2411.02359) | [🌐](-) | [💻](https://github.com/yueyang130/DeeR-VLA) |
 | 2024 | ICLR | [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](https://arxiv.org/abs/2412.10345) | [🌐](https://tracevla.github.io/) | [💻](https://github.com/umd-huang-lab/tracevla) |
+| 2025 | ICRA | [FuSe: Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding](https://arxiv.org/abs/2501.04693) | [🌐](https://fuse-model.github.io/) | [💻](https://github.com/fuse-model/FuSe) |
 | 2025 | CVPR | [UniAct: Universal Actions for Enhanced Embodied Foundation Models](https://arxiv.org/abs/2501.10105) | [🌐](https://2toinf.github.io/UniAct/) | [💻](https://github.com/2toinf/UniAct) |
 | 2025 | arXiv | [SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model](https://arxiv.org/abs/2501.15830) | [🌐](https://spatialvla.github.io/) | [💻](https://github.com/SpatialVLA/SpatialVLA) |
 | 2025 | ICML | [UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent](https://arxiv.org/abs/2501.18867) | [🌐](-) | [💻](https://github.com/CladernyJorn/UP-VLA) |
@@ -97,8 +98,12 @@
 | 2025 | arXiv | [LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2506.00411) | [🌐](-) | [💻](-) |
 | 2025 | arXiv | [BitVLA: 1-Bit Vision-Language-Action Models for Robotics Manipulation](https://arxiv.org/abs/2506.07530) | [🌐](-) | [💻](https://github.com/ustcwhy/BitVLA?tab=readme-ov-file) |
 | 2025 | arXiv | [BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models](https://arxiv.org/abs/2506.07961) | [🌐](https://bridgevla.github.io/home_page.html) | [💻](https://github.com/BridgeVLA/BridgeVLA) |
+| 2025 | arXiv | [UniVLA: Unified Vision-Language-Action Model](https://arxiv.org/abs/2506.17142) | [🌐](https://robertwyq.github.io/univla.github.io/) | [💻](https://github.com/baaivision/UniVLA) |
 | 2025 | arXiv | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | [🌐](-) | [💻](https://github.com/alibaba-damo-academy/WorldVLA) |
+| 2025 | arXiv | [4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://arxiv.org/abs/2506.22242) | [🌐](-) | [💻](https://github.com/fudan-zvg/4D-VLA) |
+| 2025 | ICCV | [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/abs/2507.01016) | [🌐](https://xiaoxiao0406.github.io/vqvla.github.io/) | [💻](https://github.com/xiaoxiao0406/VQ-VLA) |
 | 2025 | arXiv | [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116) | [🌐](-) | [💻](-) |
+| 2025 | arXiv | [SpecVLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance](https://arxiv.org/abs/2507.22424) | [🌐](-) | [💻](-) |
 
 
 ---
