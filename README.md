@@ -16,11 +16,6 @@
 
 - [🤖 Awesome VLA for Robotic Manipulation](#awesome-vla-for-robotic-manipulation)
   - [🔍 Table of Contents](#table-of-contents)
-  - [🗂️ Datasets and Benchmarks](#datasets-and-benchmarks)
-    - [Real-world Robot Datasets](#real-world-robot-datasets)
-    - [Simulation Environments and Benchmarks](#simulation-environments-and-benchmarks)
-    - [Human Behavior Datasets](#human-behavior-datasets)
-    - [Embodied Datasets and Benchmarks](#embodied-datasets-and-benchmarks)
   - [🧾 Monolithic Models](#monolithic-models)
     - [Single-System](#single-system)
     - [Dual-System](#dual-system)
@@ -32,37 +27,11 @@
     - [Training-Free Methods](#training-free-methods)
     - [Learning from Human Videos](#learning-from-human-videos)
     - [World Model-based VLA](#world-model-based-vla)
-
-
-## Datasets and Benchmarks
-
-### Real-world Robot Datasets
-| Year | Venue | Paper | Website | Code | Data |
-|------|-------|-------|---------|------|------|
-| 2021 | CoRL  | [Bc-z: Zero-shot task generalization with robotic imitation learning](https://proceedings.mlr.press/v164/jang22a/jang22a.pdf) | [🌐](https://sites.google.com/view/bc-z/home) | [💻](https://github.com/google-research/tensor2robot/tree/master/research/bcz) | [📦](https://www.kaggle.com/datasets/google/bc-z-robot) |
-
----
-
-### Simulation Environments and Benchmarks
-| Year | Venue | Paper | Website | Code | Data |
-|------|-------|-------|---------|------|------|
-
----
-
-### Human Behavior Datasets
-| Year | Venue | Paper | Website | Code | Data |
-|------|-------|-------|---------|------|------|
-
----
-
-### Embodied Datasets and Benchmarks
-| Year | Venue | Paper | Website | Code | Data |
-|------|-------|-------|---------|------|------|
-
-
-
-
-
+  - [🗂️ Datasets and Benchmarks](#datasets-and-benchmarks)
+    - [Real-world Robot Datasets](#real-world-robot-datasets)
+    - [Simulation Environments and Benchmarks](#simulation-environments-and-benchmarks)
+    - [Human Behavior Datasets](#human-behavior-datasets)
+    - [Embodied Datasets and Benchmarks](#embodied-datasets-and-benchmarks)
 
 
 ## Monolithic Models
@@ -211,6 +180,35 @@
 | 2025 | arXiv | [World4Omni: A Zero‑Shot Framework from Image Generation World Model to Robotic Manipulation](https://arxiv.org/abs/2506.23919) | [🌐](https://world4omni.github.io/) | – |
 | 2025 | arXiv | [Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations](https://arxiv.org/abs/2507.00990) | [🌐](https://rigvid-robot.github.io/) | [💻](https://github.com/shivanshpatel35/rigvid) |
 | 2025 | arXiv | [V‑JEPA 2: Self‑Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | [🌐](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/) | [💻](https://github.com/facebookresearch/vjepa2) |
+
+
+## Datasets and Benchmarks
+
+### Real-world Robot Datasets
+| Year | Venue | Paper | Website | Code | Data |
+|------|-------|-------|---------|------|------|
+| 2021 | CoRL  | [Bc-z: Zero-shot task generalization with robotic imitation learning](https://proceedings.mlr.press/v164/jang22a/jang22a.pdf) | [🌐](https://sites.google.com/view/bc-z/home) | [💻](https://github.com/google-research/tensor2robot/tree/master/research/bcz) | [📦](https://www.kaggle.com/datasets/google/bc-z-robot) |
+
+---
+
+### Simulation Environments and Benchmarks
+| Year | Venue | Paper | Website | Code | Data |
+|------|-------|-------|---------|------|------|
+
+---
+
+### Human Behavior Datasets
+| Year | Venue | Paper | Website | Code | Data |
+|------|-------|-------|---------|------|------|
+
+---
+
+### Embodied Datasets and Benchmarks
+| Year | Venue | Paper | Website | Code | Data |
+|------|-------|-------|---------|------|------|
+
+
+
 
 
 
