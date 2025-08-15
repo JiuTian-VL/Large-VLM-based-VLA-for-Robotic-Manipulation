@@ -73,7 +73,7 @@
 | 2025 | ICCV | [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/abs/2507.01016) | [🌐](https://xiaoxiao0406.github.io/vqvla.github.io/) | [💻](https://github.com/xiaoxiao0406/VQ-VLA) |
 | 2025 | arXiv | [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116) | [🌐](-) | [💻](-) |
 | 2025 | arXiv | [SpecVLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance](https://arxiv.org/abs/2507.22424) | [🌐](-) | [💻](-) |
-| 2025 | arXiv | [ST-VLA: Spatial Traces: Enhancing VLA Models with  Spatial-Temporal Understanding](Spatial Traces: Enhancing VLA Models with  Spatial-Temporal Understanding) | [🌐](https://ampiromax.github.io/ST-VLA/) | [💻](-) |
+| 2025 | arXiv | [ST-VLA: Spatial Traces: Enhancing VLA Models with  Spatial-Temporal Understanding]([Spatial Traces: Enhancing VLA Models with  Spatial-Temporal Understanding](https://arxiv.org/abs/2508.09032)) | [🌐](https://ampiromax.github.io/ST-VLA/) | [💻](-) |
 
 
 ---
