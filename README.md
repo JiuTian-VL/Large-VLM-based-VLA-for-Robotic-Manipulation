@@ -5,9 +5,9 @@
 </div>
 
 
-🔥 Vision-Language-Action (VLA) models have recently emerged as a transformative paradigm for robotic manipulation by tightly coupling perception, language understanding, and action generation. Built upon large-scale Vision-Language Models (VLMs), they enable robots to interpret natural language instructions, perceive complex environments, and perform diverse manipulation tasks with strong generalization.    
+🔥 Large VLM-based Vision-Language-Action (VLA) models have recently emerged as a transformative paradigm for robotic manipulation by tightly coupling perception, language understanding, and action generation. Built upon large Vision-Language Models (VLMs), they enable robots to interpret natural language instructions, perceive complex environments, and perform diverse manipulation tasks with strong generalization.    
 
-📍 We present **the first systematic survey on VLM-based VLA models for robotic manipulation**. This repository serves as the companion resource to our survey: ["Vision-Language-Action Models for Robotic Manipulation: A Survey"](https://arxiv.org/abs/xxxx.xxxxx), and includes all the research papers, benchmarks, and resources reviewed in the paper, organized for easy access and reference.
+📍 We present **the first systematic survey on large VLM-based VLA models for robotic manipulation**. This repository serves as the companion resource to our survey: ["Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey"](https://arxiv.org/abs/xxxx.xxxxx), and includes all the research papers, benchmarks, and resources reviewed in the paper, organized for easy access and reference.
 
 📌 We will keep updating this repository with newly published works to reflect the latest progress in the field. 
 
@@ -37,7 +37,7 @@
 ## Monolithic Models
 
 ### Single-System
-| Year | Venue | Paper | Website | Code |
+<!-- | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
 | 2023 | CoRL | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) | [🌐](https://robotics-transformer2.github.io/) | [💻](-) |
 | 2023 | ICRA | [RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | [🌐](https://robotics-transformer-x.github.io/) | [💻](-) |
@@ -73,7 +73,46 @@
 | 2025 | ICCV | [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/abs/2507.01016) | [🌐](https://xiaoxiao0406.github.io/vqvla.github.io/) | [💻](https://github.com/xiaoxiao0406/VQ-VLA) |
 | 2025 | arXiv | [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116) | [🌐](-) | [💻](-) |
 | 2025 | arXiv | [SpecVLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance](https://arxiv.org/abs/2507.22424) | [🌐](-) | [💻](-) |
-| 2025 | arXiv | [ST-VLA: Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding](https://arxiv.org/abs/2508.09032) | [🌐](https://ampiromax.github.io/ST-VLA/) | [💻](-) |
+| 2025 | arXiv | [ST-VLA: Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding](https://arxiv.org/abs/2508.09032) | [🌐](https://ampiromax.github.io/ST-VLA/) | [💻](-) | -->
+
+
+| Year | Venue | Paper | Website | Code |
+|------|-------|-------|---------|------|
+| 2023 | CoRL | [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818) | [🌐](https://robotics-transformer2.github.io/) | - |
+| 2023 | ICRA | [RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864) | [🌐](https://robotics-transformer-x.github.io/) | - |
+| 2023 | NeurIPS | [RoboFlamingo: Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378) | [🌐](https://roboflamingo.github.io/) | [💻](https://roboflamingo.github.io/) |
+| 2023 | ICML | [LEO Agent: An Embodied Generalist Agent in 3D World](https://arxiv.org/abs/2311.12871) | [🌐](https://embodied-generalist.github.io/) | [💻](https://github.com/embodied-generalist/embodied-generalist) |
+| 2024 | NeurIPS | [RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation](https://arxiv.org/abs/2406.04339) | [🌐](https://sites.google.com/view/robomamba-web) | [💻](https://github.com/lmzpai/roboMamba?tab=readme-ov-file) |
+| 2024 | CoRL | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | [🌐](https://openvla.github.io/) | [💻](https://github.com/openvla/openvla?tab=readme-ov-file) |
+| 2024 | CoRL | [ECOT-Lite: Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | [🌐](https://embodied-cot.github.io/) | [💻](https://github.com/MichalZawalski/embodied-CoT/) |
+| 2024 | ICRA | [ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models](https://arxiv.org/abs/2409.15250) | [🌐](https://insait-institute.github.io/ReVLA/) | - |
+| 2024 | NeurIPS | [DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution](https://arxiv.org/abs/2411.02359) | - | [💻](https://github.com/yueyang130/DeeR-VLA) |
+| 2024 | ICLR | [TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies](https://arxiv.org/abs/2412.10345) | [🌐](https://tracevla.github.io/) | [💻](https://github.com/umd-huang-lab/tracevla) |
+| 2025 | ICRA | [FuSe: Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding](https://arxiv.org/abs/2501.04693) | [🌐](https://fuse-model.github.io/) | [💻](https://github.com/fuse-model/FuSe) |
+| 2025 | CVPR | [UniAct: Universal Actions for Enhanced Embodied Foundation Models](https://arxiv.org/abs/2501.10105) | [🌐](https://2toinf.github.io/UniAct/) | [💻](https://github.com/2toinf/UniAct) |
+| 2025 | arXiv | [SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model](https://arxiv.org/abs/2501.15830) | [🌐](https://spatialvla.github.io/) | [💻](https://github.com/SpatialVLA/SpatialVLA) |
+| 2025 | ICML | [UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent](https://arxiv.org/abs/2501.18867) | - | [💻](https://github.com/CladernyJorn/UP-VLA) |
+| 2025 | ICLR | [VLAS: Vision-Language-Action Model with Speech Instructions for Customized Robot Manipulation](https://arxiv.org/abs/2502.13508) | - | - |
+| 2025 | arXiv | [OpenVLA-OFT: Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645) | [🌐](https://openvla-oft.github.io/) | [💻](https://github.com/moojink/openvla-oft) |
+| 2025 | arXiv | [PD-VLA: Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/abs/2503.02310) | - | - |
+| 2025 | arXiv | [HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](https://arxiv.org/abs/2503.10631) | [🌐](https://hybrid-vla.github.io/) | [💻](https://github.com/PKU-HMI-Lab/Hybrid-VLA) |
+| 2025 | arXiv | [MoLe-VLA: Dynamic Layer-Skipping Vision-Language-Action Model via Mixture-of-Layers for Efficient Robot Manipulation](https://arxiv.org/abs/2503.20384) | [🌐](https://sites.google.com/view/mole-vla) | [💻](https://github.com/RoyZry98/MoLe-VLA-Pytorch) |
+| 2025 | CVPR | [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2503.22020) | [🌐](https://cot-vla.github.io/) | - |
+| 2025 | arXiv | [NORA: A Small Open-Sourced Generalist Vision-Language-Action Model for Embodied Tasks](https://arxiv.org/abs/2504.19854) | [🌐](https://declare-lab.github.io/nora) | [💻](https://github.com/declare-lab/nora) |
+| 2025 | arXiv | [VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation](https://arxiv.org/abs/2505.09577) | [🌐](https://sites.google.com/view/vtla) | - |
+| 2025 | arXiv | [OE-VLA: Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions](https://arxiv.org/abs/2505.11214) | - | - |
+| 2025 | arXiv | [ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning](https://arxiv.org/abs/2505.19080) | - | - |
+| 2025 | arXiv | [FLashVLA: Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models](https://arxiv.org/abs/2505.21200) | - | - |
+| 2025 | arXiv | [LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2506.00411) | - | - |
+| 2025 | arXiv | [BitVLA: 1-Bit Vision-Language-Action Models for Robotics Manipulation](https://arxiv.org/abs/2506.07530) | - | [💻](https://github.com/ustcwhy/BitVLA?tab=readme-ov-file) |
+| 2025 | arXiv | [BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models](https://arxiv.org/abs/2506.07961) | [🌐](https://bridgevla.github.io/home_page.html) | [💻](https://github.com/BridgeVLA/BridgeVLA) |
+| 2025 | arXiv | [UniVLA: Unified Vision-Language-Action Model](https://arxiv.org/abs/2506.17142) | [🌐](https://robertwyq.github.io/univla.github.io/) | [💻](https://github.com/baaivision/UniVLA) |
+| 2025 | arXiv | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | - | [💻](https://github.com/alibaba-damo-academy/WorldVLA) |
+| 2025 | arXiv | [4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration](https://arxiv.org/abs/2506.22242) | - | [💻](https://github.com/fudan-zvg/4D-VLA) |
+| 2025 | ICCV | [VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers](https://arxiv.org/abs/2507.01016) | [🌐](https://xiaoxiao0406.github.io/vqvla.github.io/) | [💻](https://github.com/xiaoxiao0406/VQ-VLA) |
+| 2025 | arXiv | [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116) | - | - |
+| 2025 | arXiv | [SpecVLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance](https://arxiv.org/abs/2507.22424) | - | - |
+| 2025 | arXiv | [ST-VLA: Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding](https://arxiv.org/abs/2508.09032) | [🌐](https://ampiromax.github.io/ST-VLA/) | - |
 
 
 ---
@@ -155,9 +194,14 @@
 ### Training-Free Methods
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
-| 2025 | arXiv | [Think Twice, Act Once: Token‑Aware Compression and Action Reuse for Efficient Inference in Vision‑Language‑Action Models](https://arxiv.org/abs/2505.21200) | – | – |
-| 2025 | arXiv | [EfficientVLA: Training‑Free Acceleration and Compression for Vision‑Language‑Action Models](https://arxiv.org/abs/2506.10100) | – | – |
-| 2025 | arXiv | [VLA‑Cache: Towards Efficient Vision‑Language‑Action Model via Adaptive Token Caching in Robotic Manipulation](https://arxiv.org/abs/2502.02175) | – | [💻](https://github.com/siyuhsu/vla-cache) |
+| 2025 | arXiv | [VLA‑Cache: Towards Efficient Vision‑Language‑Action Model via Adaptive Token Caching in Robotic Manipulation](https://arxiv.org/abs/2502.02175) | - | [💻](https://github.com/siyuhsu/vla-cache) |
+| 2025 | arXiv | [Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding](https://arxiv.org/abs/2503.02310) | - | - |
+| 2025 | arXiv | [Think Twice, Act Once: Token‑Aware Compression and Action Reuse for Efficient Inference in Vision‑Language‑Action Models](https://arxiv.org/abs/2505.21200) | - | - |
+| 2025 | arXiv | [EfficientVLA: Training‑Free Acceleration and Compression for Vision‑Language‑Action Models](https://arxiv.org/abs/2506.10100) | - | - |
+| 2025 | arXiv | [SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration](https://arxiv.org/abs/2506.12723) | - | - |
+| 2025 | arXiv | [Block-wise Adaptive Caching for Accelerating Diffusion Policy](https://arxiv.org/abs/2506.13456) | - | - |
+| 2025 | RSS | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.roboticsproceedings.org/rss21/p012.pdf) | [🌐](https://www.pi.website/research/fast) | - |
+| 2025 | arXiv | [Real-Time Execution of Action Chunking Flow Policies](https://arxiv.org/abs/2506.07339) | [🌐](https://www.pi.website/research/real_time_chunking) | - |
 ---
 
 ### Learning from Human Videos
@@ -166,9 +210,9 @@
 | 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://arxiv.org/pdf/2403.09631) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) |
 | 2024 | NeurIPS | [Learning an Actionable Discrete Diffusion Policy via Large‑Scale Actionless Video Pre‑Training](https://proceedings.neurips.cc/paper_files/paper/2024/file/378226e5df7eded3e401de5c9493143c-Paper-Conference.pdf) | [🌐](https://video-diff.github.io/) | [💻](https://github.com/tinnerhrhe/VPDD) |
 | 2025 | CVPR | [Mitigating the Human‑Robot Domain Discrepancy in Visual Pre‑training for Robotic Manipulation](https://cvpr.thecvf.com/virtual/2025/poster/32537) | [🌐](https://jiaming-zhou.github.io/projects/HumanRobotAlign) | [💻](https://github.com/jiaming-zhou/HumanRobotAlign) |
-| 2025 | RSS | [UniVLA: Learning to Act Anywhere with Task‑centric Latent Actions](https://www.roboticsproceedings.org/rss21/p014.pdf) | – | [💻](https://github.com/OpenDriveLab/UniVLA) |
+| 2025 | RSS | [UniVLA: Learning to Act Anywhere with Task‑centric Latent Actions](https://www.roboticsproceedings.org/rss21/p014.pdf) | - | [💻](https://github.com/OpenDriveLab/UniVLA) |
 | 2025 | ICLR | [Latent Action Pretraining from Videos](https://openreview.net/pdf?id=VYOe2eBQeh) | [🌐](https://latentactionpretraining.github.io/) | [💻](https://github.com/LatentActionPretraining/LAPA) |
-| 2025 | arXiv | [Humanoid‑VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795) | – | – |
+| 2025 | arXiv | [Humanoid‑VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795) | - | - |
 <!-- | 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://proceedings.mlr.press/v235/zhen24a.html) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) | -->
 ---
 
@@ -178,7 +222,7 @@
 | 2024 | CVPR | [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.pdf) | [🌐](https://nvlabs.github.io/FoundationPose/) | [💻](https://github.com/NVlabs/FoundationPose) |
 | 2024 | ICML | [3D‑VLA: A 3D Vision‑Language‑Action Generative World Model](https://arxiv.org/pdf/2403.09631) | [🌐](https://vis-www.cs.umass.edu/3dvla/) | [💻](https://github.com/UMass-Foundation-Model/3D-VLA) | 
 | 2025 | arXiv | [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | - | [💻](https://github.com/alibaba-damo-academy/WorldVLA) |
-| 2025 | arXiv | [World4Omni: A Zero‑Shot Framework from Image Generation World Model to Robotic Manipulation](https://arxiv.org/abs/2506.23919) | [🌐](https://world4omni.github.io/) | – |
+| 2025 | arXiv | [World4Omni: A Zero‑Shot Framework from Image Generation World Model to Robotic Manipulation](https://arxiv.org/abs/2506.23919) | [🌐](https://world4omni.github.io/) | - |
 | 2025 | arXiv | [Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations](https://arxiv.org/abs/2507.00990) | [🌐](https://rigvid-robot.github.io/) | [💻](https://github.com/shivanshpatel35/rigvid) |
 | 2025 | arXiv | [V‑JEPA 2: Self‑Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | [🌐](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/) | [💻](https://github.com/facebookresearch/vjepa2) |
 
