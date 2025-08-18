@@ -252,10 +252,10 @@
 | 2022 | CoRL | [BEHAVIOR‑1K: A Human‑Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation](https://arxiv.org/abs/2403.09227) | [🌐](https://behavior.stanford.edu/) | [💻](https://github.com/StanfordVL/BEHAVIOR-1K) | [📦](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | 2020 | CVPR | [ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks](https://arxiv.org/abs/1912.01734) | [🌐](https://askforalfred.com/) | [💻](https://github.com/askforalfred/alfred) | [📦](https://askforalfred.com/) |
 | 2020 | RA-L | [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) | [🌐](https://sites.google.com/view/rlbench) | [💻](https://github.com/stepjam/RLBench) | [📦]([https://askforalfred.com/](https://huggingface.co/datasets/hqfang/RLBench-18-Tasks)) |
-| 2024 | arXiv | [PerAct²: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks](https://arxiv.org/abs/2407.00278) | [🌐](http://bimanual.github.io/) | [💻](https://github.com/markusgrotz/peract_bimanual) | [📦](https://bimanual.github.io/)) |
+| 2024 | arXiv | [PerAct²: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks](https://arxiv.org/abs/2407.00278) | [🌐](http://bimanual.github.io/) | [💻](https://github.com/markusgrotz/peract_bimanual) | [📦](https://bimanual.github.io/) |
 | 2020 | CoRL | [Meta‑World: A Benchmark and Evaluation for Multi‑Task and Meta Reinforcement Learning](https://arxiv.org/abs/1910.10897) | [🌐](https://meta-world.github.io/) | [💻](https://github.com/Farama-Foundation/Metaworld) | [📦](https://github.com/Farama-Foundation/Metaworld) |
 | 2019 | CoRL | [Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning](https://arxiv.org/abs/1910.11956) | [🌐](https://relay-policy-learning.github.io/) | [💻](https://github.com/google-research/relay-policy-learning) | [📦](https://minari.farama.org/datasets/D4RL/index.html) |
-| 2023 | NeurIPS | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | [🌐](https://libero-project.github.io/) | [💻](https://github.com/Lifelong%E2%80%91Robot%E2%80%91Learning/LIBERO) | [📦](https://github.com/Lifelong%E2%80%91Robot%E2%80%91Learning/LIBERO)) |
+| 2023 | NeurIPS | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | [🌐](https://libero-project.github.io/) | [💻](https://github.com/Lifelong%E2%80%91Robot%E2%80%91Learning/LIBERO) | [📦](https://github.com/Lifelong%E2%80%91Robot%E2%80%91Learning/LIBERO) |
 | 2022 | RA-L | [CALVIN: A Benchmark for Language‑Conditioned Policy Learning for Long‑Horizon Robot Manipulation Tasks](https://arxiv.org/abs/2112.03227) | [🌐](http://calvin.cs.uni-freiburg.de/) | [💻](https://github.com/mees/calvin) | [📦](https://github.com/mees/calvin) |
 | 2024 | arXiv | [MIKASA: Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning](https://arxiv.org/abs/2502.10550) | [🌐](https://sites.google.com/view/memorybenchrobots/) | [💻](https://github.com/CognitiveAISystems/MIKASA-Robo) | [📦](https://huggingface.co/datasets/avanturist/mikasa-robo) |
 | 2024 | CoRL | [SIMPLER: Evaluating Real‑World Robot Manipulation Policies in Simulation](https://arxiv.org/abs/2405.05941) | [🌐](https://simpler-env.github.io/) | [💻](https://github.com/simpler-env/SimplerEnv) | [📦](https://github.com/simpler-env/SimplerEnv) |
@@ -279,14 +279,24 @@
 | 2024 | ECCV| [COM Kitchens: An Unedited Overhead‑View Video Dataset as a Vision‑Language Benchmark](https://arxiv.org/abs/2408.02272) | [🌐](https://github.com/omron-sinicx/com_kitchens) | [💻](https://github.com/omron-sinicx/com_kitchens) | [📦](https://github.com/omron-sinicx/com_kitchens) |
 | 2019 | ICCV | [EgoVQA: An Egocentric Video Question Answering Benchmark Dataset](https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf) | [🌐](https://github.com/YaoMarkMu/EgoVQA) | [💻](https://github.com/YaoMarkMu/EgoVQA) | [📦](http://vision.soic.indiana.edu/identifying-1st-3rd/) |
 | 2022 | NeurIPS | [EgoTaskQA: Understanding Human Tasks in Egocentric Videos](https://arxiv.org/abs/2210.03929) | [🌐](https://sites.google.com/view/egotaskqa) | [💻](https://github.com/Buzz-Beater/EgoTaskQA) | [📦](https://sites.google.com/view/egotaskqa) |
-
-
+| 2025 | arXiv| [EgoDex: Learning Dexterous Manipulation from Large‑Scale Egocentric Video](https://arxiv.org/abs/2505.11709) | [🌐] | [💻] | [📦] |
+| 2024 | RSS | [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788) | [🌐](https://dex-cap.github.io/) | [💻](https://github.com/j96w/DexCap) | [📦](https://huggingface.co/datasets/chenwangj/DexCap-Data) |
+| 2024 | arXiv | [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221) | [🌐](https://egomimic.github.io/) | [💻](https://github.com/SimarKareer/EgoMimic-Eve) | [📦](https://huggingface.co/datasets/gatech/EgoMimic/tree/main) |
+| 2025 | CoRL | [Humanoid Policy ~ Human Policy](https://arxiv.org/abs/2503.13441) | [🌐](https://human-as-robot.github.io/) | [💻](https://github.com/RogerQi/human-policy) | [📦](https://huggingface.co/datasets/RogerQi/PH2D) |
+| 2025 | arXiv | [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](https://arxiv.org/abs/2505.09601) | [🌐](https://real2render2real.com/) | [💻](https://github.com/uynitsuj/real2render2real) | [📦] |
 
 ---
 
 ### Embodied Datasets and Benchmarks
 | Year | Venue | Paper | Website | Code | Data |
 |------|-------|-------|---------|------|------|
+| 2018 | CVPR | [EQA: Embodied Question Answering](https://arxiv.org/abs/1711.11543) | [🌐](https://embodiedqa.org/) | [💻](https://github.com/facebookresearch/EmbodiedQA) | [📦](https://embodiedqa.org/data) |
+| 2018 | CVPR | [IQA: Visual Question Answering in Interactive Environments](https://arxiv.org/abs/1712.03316) | [🌐]| [💻](https://github.com/danielgordon10/thor-iqa-cvpr-2018) | [📦] |
+| 2019 | CVPR | [MT‑EQA: Multi‑Target Embodied Question Answering](https://arxiv.org/abs/1904.04686) | [🌐](https://embodiedqa.org/) | [💻](https://github.com/facebookresearch/EmbodiedQA) | [📦](https://embodiedqa.org/data) |
+| 2019 | CVPR | [Embodied Question Answering in Photorealistic Environments with Point Cloud Perception](https://arxiv.org/abs/1904.03461) | [🌐](https://embodiedqa.org/) | [💻](https://github.com/facebookresearch/EmbodiedQA) | [📦](https://embodiedqa.org/data) |
+| 2023 | ICLR | [EQA‑MX: Embodied Question Answering using Multimodal Expression](https://openreview.net/pdf) | [🌐] | [💻] | [📦] |
+| 2024 | CVPR | [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) | [🌐](https://open-eqa.github.io/) | [💻](https://github.com/facebookresearch/open-eqa) | [📦](https://github.com/facebookresearch/open-eqa) |
+| 2024 | ICLR | [LoTa‑Bench: Benchmarking Language‑oriented Task Planners for Embodied Agents](https://arxiv.org/abs/2402.08178) | [🌐](https://choi-jaewoo.github.io/LoTa-Bench/) | [💻](https://github.com/lbaa2022/LLMTaskPlanning) | [📦](https://github.com/lbaa2022/LLMTaskPlanning) |
 
 
 
