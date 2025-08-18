@@ -232,19 +232,55 @@
 ### Real-world Robot Datasets
 | Year | Venue | Paper | Website | Code | Data |
 |------|-------|-------|---------|------|------|
-| 2021 | CoRL  | [Bc-z: Zero-shot task generalization with robotic imitation learning](https://proceedings.mlr.press/v164/jang22a/jang22a.pdf) | [🌐](https://sites.google.com/view/bc-z/home) | [💻](https://github.com/google-research/tensor2robot/tree/master/research/bcz) | [📦](https://www.kaggle.com/datasets/google/bc-z-robot) |
+| 2021 | CoRL  | [BC-Z: Zero-shot task generalization with robotic imitation learning](https://proceedings.mlr.press/v164/jang22a/jang22a.pdf) | [🌐](https://sites.google.com/view/bc-z/home) | [💻](https://github.com/google-research/tensor2robot/tree/master/research/bcz) | [📦](https://www.kaggle.com/datasets/google/bc-z-robot) |
+| 2023 | RSS  | [RT‑1: Robotics Transformer for Real‑World Control at Scale](https://arxiv.org/abs/2212.06817) | [🌐](https://robotics-transformer1.github.io/) | [💻](https://github.com/google-research/robotics_transformer) |  [📦]  |
+| 2023 | CoRL  | [RT‑2: Vision‑Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2307.15818) | [🌐](https://robotics-transformer2.github.io/) | [💻](https://github.com/google-research/robotics_transformer) |  [📦]  |
+| 2022 | RSS  | [Bridge Data: Boosting Generalization of Robotic Skills with Cross‑Domain Datasets](https://arxiv.org/abs/2109.13396) | [🌐](https://sites.google.com/view/bridgedata) | [💻](https://github.com/yanlai00/bridge_data_imitation_learning) | [📦](https://sites.google.com/view/bridgedata) |
+| 2023 | CoRL  | [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/abs/2308.12952) | [🌐](https://rail-berkeley.github.io/bridgedata/) | [💻](https://github.com/rail-berkeley/bridge_data_v2) | [📦](https://github.com/rail-berkeley/bridge_data_v2) |
+| 2024 | ICRA | [RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One‑Shot](https://arxiv.org/abs/2307.00595) | [🌐](https://rh20t.github.io/) | [💻](https://github.com/rh20t) | [📦](https://github.com/rh20t/act_baseline) |
+| 2024 | RSS | [DROID: A Large-Scale In‑The‑Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | [🌐](https://droid-dataset.github.io/) | [💻](https://github.com/droid-dataset/droid) | [📦](https://github.com/droid-dataset/droid_policy_learning) |
+| 2024 | ICRA | [Open X‑Embodiment: Robotic Learning Datasets and RT‑X Models](https://arxiv.org/abs/2310.08864) | [🌐](https://robotics-transformer-x.github.io/) | [💻](https://github.com/google-deepmind/open_x_embodiment) | [📦](https://github.com/google-deepmind/open_x_embodiment) |
+| 2025 | RSS | [RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation](https://arxiv.org/abs/2412.13877) | [🌐](https://x-humanoid-robomind.github.io/) | [💻](https://github.com/x-humanoid-robomind/x-humanoid-robomind.github.io) | [📦](https://data.flopsera.com/data-detail/21181956226031626?type=open) |
+| 2025 | IROS | [AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems](https://arxiv.org/abs/2503.06669) | [🌐](https://agibot-world.com/) | [💻](https://github.com/OpenDriveLab/AgiBot-World) | [📦](https://huggingface.co/datasets/agibot-world/AgiBotWorld-Alpha) |
+| 2025 | arXiv | [BRMData: Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks](https://arxiv.org/pdf/2405.18860) | [🌐](https://embodiedrobot.github.io/) | [💻](https://github.com/Louis-ZhangLe/BRMData) | [📦](http://box.jd.com/sharedInfo/1147DC284DDAEE91DC759E209F58DD60) |
 
 ---
 
 ### Simulation Environments and Benchmarks
 | Year | Venue | Paper | Website | Code | Data |
 |------|-------|-------|---------|------|------|
+| 2022 | CoRL | [BEHAVIOR‑1K: A Human‑Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation](https://arxiv.org/abs/2403.09227) | [🌐](https://behavior.stanford.edu/) | [💻](https://github.com/StanfordVL/BEHAVIOR-1K) | [📦](https://github.com/StanfordVL/BEHAVIOR-1K) |
+| 2020 | CVPR | [ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks](https://arxiv.org/abs/1912.01734) | [🌐](https://askforalfred.com/) | [💻](https://github.com/askforalfred/alfred) | [📦](https://askforalfred.com/) |
+| 2020 | RA-L | [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) | [🌐](https://sites.google.com/view/rlbench) | [💻](https://github.com/stepjam/RLBench) | [📦]([https://askforalfred.com/](https://huggingface.co/datasets/hqfang/RLBench-18-Tasks)) |
+| 2024 | arXiv | [PerAct²: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks](https://arxiv.org/abs/2407.00278) | [🌐](http://bimanual.github.io/) | [💻](https://github.com/markusgrotz/peract_bimanual) | [📦](https://bimanual.github.io/)) |
+| 2020 | CoRL | [Meta‑World: A Benchmark and Evaluation for Multi‑Task and Meta Reinforcement Learning](https://arxiv.org/abs/1910.10897) | [🌐](https://meta-world.github.io/) | [💻](https://github.com/Farama-Foundation/Metaworld) | [📦](https://github.com/Farama-Foundation/Metaworld) |
+| 2019 | CoRL | [Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning](https://arxiv.org/abs/1910.11956) | [🌐](https://relay-policy-learning.github.io/) | [💻](https://github.com/google-research/relay-policy-learning) | [📦](https://minari.farama.org/datasets/D4RL/index.html) |
+| 2023 | NeurIPS | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | [🌐](https://libero-project.github.io/) | [💻](https://github.com/Lifelong%E2%80%91Robot%E2%80%91Learning/LIBERO) | [📦](https://github.com/Lifelong%E2%80%91Robot%E2%80%91Learning/LIBERO)) |
+| 2022 | RA-L | [CALVIN: A Benchmark for Language‑Conditioned Policy Learning for Long‑Horizon Robot Manipulation Tasks](https://arxiv.org/abs/2112.03227) | [🌐](http://calvin.cs.uni-freiburg.de/) | [💻](https://github.com/mees/calvin) | [📦](https://github.com/mees/calvin) |
+| 2024 | arXiv | [MIKASA: Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning](https://arxiv.org/abs/2502.10550) | [🌐](https://sites.google.com/view/memorybenchrobots/) | [💻](https://github.com/CognitiveAISystems/MIKASA-Robo) | [📦](https://huggingface.co/datasets/avanturist/mikasa-robo) |
+| 2024 | CoRL | [SIMPLER: Evaluating Real‑World Robot Manipulation Policies in Simulation](https://arxiv.org/abs/2405.05941) | [🌐](https://simpler-env.github.io/) | [💻](https://github.com/simpler-env/SimplerEnv) | [📦](https://github.com/simpler-env/SimplerEnv) |
+| 2019 | ICCV | [Habitat: A Platform for Embodied AI Research](https://arxiv.org/abs/1904.01201) | [🌐](https://aihabitat.org/) | [💻](https://github.com/facebookresearch/habitat-sim) | [📦](https://aihabitat.org/datasets/replica_cad/) |
+| 2021 | NeurIPS| [Habitat 2.0: Training Home Assistants to Rearrange their Habitat](https://arxiv.org/abs/2106.14405) | [🌐](https://aihabitat.org/docs/habitat2) | [💻](https://github.com/facebookresearch/habitat-sim) | [📦](https://aihabitat.org/datasets/replica_cad/) |
+| 2024 | ICLR | [Habitat 3.0: A Co‑Habitat for Humans, Avatars and Robots](https://arxiv.org/abs/2310.13724) | [🌐](https://aihabitat.org/habitat3/) | [💻](https://github.com/facebookresearch/habitat-sim) | [📦](https://aihabitat.org/datasets/replica_cad/) |
+| 2020 | CVPR | [SAPIEN: A Simulated Part-based Interactive Environment](https://arxiv.org/abs/2003.08515) | [🌐](https://sapien.ucsd.edu/) | [💻](https://github.com/haosulab/SAPIEN) | [📦](https://sapien.ucsd.edu/downloads) |
+| 2024 | RSS | [The Colosseum: A Benchmark for Evaluating Generalization for Robotic Manipulation](https://arxiv.org/abs/2402.08191) | [🌐](https://robot-colosseum.github.io/) | [💻](https://github.com/robot-colosseum/robot-colosseum) | [📦](https://huggingface.co/datasets/colosseum/colosseum-challenge) |
+| 2025 | ICCV | [VLABench: A Large‑Scale Benchmark for Language‑Conditioned Robotics Manipulation with Long‑Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) | [🌐](https://vlabench.github.io/) | [💻](https://github.com/OpenMOSS/VLABench) | [📦](https://huggingface.co/VLABench) |
 
 ---
 
 ### Human Behavior Datasets
 | Year | Venue | Paper | Website | Code | Data |
 |------|-------|-------|---------|------|------|
+| 2022 | CVPR | [Ego4D: Around the World in 3,000 Hours of Egocentric Video](https://arxiv.org/abs/2110.07058) | [🌐](https://ego4d-data.org/) | [💻](https://github.com/facebookresearch/Ego4d) | [📦](https://ego4d-data.org/docs/start-here/) |
+| 2024 | CVPR | [Ego‑Exo4D: Understanding Skilled Human Activity from First‑ and Third‑Person Perspectives](https://arxiv.org/abs/2311.18259) | [🌐](https://ego-exo4d-data.org/) | [💻](https://github.com/facebookresearch/Ego4d) | [📦](https://ego-exo4d-data.org/) |
+| 2024 | arXiv | [EgoPlan‑Bench: Benchmarking Egocentric Embodied Planning with Multimodal Large Language Models](https://arxiv.org/abs/2312.06722) | [🌐](https://chenyi99.github.io/ego_plan/) | [💻](https://github.com/ChenYi99/EgoPlan) | [📦](https://drive.google.com/drive/folders/1qVtPzhHmCgdQ5JlMeAL3OZtvbHaXktTo) |
+| 2024 | arXiv | [EgoVid‑5M: A Large‑Scale Video‑Action Dataset for Egocentric Video Generation](https://arxiv.org/abs/2411.08380) | [🌐](https://egovid.github.io/) | [💻](https://github.com/JeffWang987/EgoVid) | [📦](https://modelscope.cn/datasets/iic/EgoVid/) |
+| 2018 | ECCV | [Scaling Egocentric Vision: The EPIC‑KITCHENS Dataset](https://arxiv.org/abs/1804.02748) | [🌐](http://epic-kitchens.github.io/) | [💻](http://epic-kitchens.github.io/) | [📦](https://epic-kitchens.github.io/2025#downloads) |
+| 2024 | ECCV| [COM Kitchens: An Unedited Overhead‑View Video Dataset as a Vision‑Language Benchmark](https://arxiv.org/abs/2408.02272) | [🌐](https://github.com/omron-sinicx/com_kitchens) | [💻](https://github.com/omron-sinicx/com_kitchens) | [📦](https://github.com/omron-sinicx/com_kitchens) |
+| 2019 | ICCV | [EgoVQA: An Egocentric Video Question Answering Benchmark Dataset](https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf) | [🌐](https://github.com/YaoMarkMu/EgoVQA) | [💻](https://github.com/YaoMarkMu/EgoVQA) | [📦](http://vision.soic.indiana.edu/identifying-1st-3rd/) |
+| 2022 | NeurIPS | [EgoTaskQA: Understanding Human Tasks in Egocentric Videos](https://arxiv.org/abs/2210.03929) | [🌐](https://sites.google.com/view/egotaskqa) | [💻](https://github.com/Buzz-Beater/EgoTaskQA) | [📦](https://sites.google.com/view/egotaskqa) |
+
+
 
 ---
 
