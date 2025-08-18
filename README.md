@@ -124,28 +124,28 @@
 | 2024 | arXiv | [Towards synergistic, generalized, and efficient dual-system for robotic manipulation](https://arxiv.org/abs/2410.08001) | [🌐](https://robodual.github.io/) | - |
 | 2024 | IROS | [From llms to actions: latent codes as bridges in hierarchical robot control](https://arxiv.org/abs/2405.04798) | - | - |
 | 2025 | arXiv | [Gr00t n1: an open foundation model for generalist humanoid robots](https://arxiv.org/abs/2503.14734) | - | - |
-| 2024 | arXiv | [Cogact: a foundational vision-language-action model for synergizing cognition and action in robotic manipulation](https://arxiv.org/abs/2411.19650) | [🌐](https://cogact.github.io/) | [🌐](https://github.com/microsoft/CogACT) |
+| 2024 | arXiv | [Cogact: a foundational vision-language-action model for synergizing cognition and action in robotic manipulation](https://arxiv.org/abs/2411.19650) | [🌐](https://cogact.github.io/) | [💻](https://github.com/microsoft/CogACT) |
 | 2025 | CoRL | [Hirt: enhancing robotic control with hierarchical robot transformers](https://arxiv.org/abs/2410.05273) | - | - |
-| 2025 | arXiv | [Fast-in-slow: a dual-system foundation model unifying fast manipulation within slow reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [🌐](https://github.com/CHEN-H01/Fast-in-Slow) |
-| 2025 | arXiv | [Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation](https://arxiv.org/abs/2505.03912) | [🌐](https://openhelix-robot.github.io/) | [🌐](https://github.com/OpenHelix-robot/OpenHelix) |
-| 2025 | arXiv | [Chatvla: unified multimodal understanding and robot control with vision-language-action model](https://arxiv.org/abs/2502.14420) | [🌐](https://chatvla.github.io/) | [🌐](https://github.com/tutujingyugang1/ChatVLA_public) |
+| 2025 | arXiv | [Fast-in-slow: a dual-system foundation model unifying fast manipulation within slow reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [💻](https://github.com/CHEN-H01/Fast-in-Slow) |
+| 2025 | arXiv | [Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation](https://arxiv.org/abs/2505.03912) | [🌐](https://openhelix-robot.github.io/) | [💻](https://github.com/OpenHelix-robot/OpenHelix) |
+| 2025 | arXiv | [Chatvla: unified multimodal understanding and robot control with vision-language-action model](https://arxiv.org/abs/2502.14420) | [🌐](https://chatvla.github.io/) | [💻](https://github.com/tutujingyugang1/ChatVLA_public) |
 | 2025 | arXiv | [Chatvla-2: vision-language-action model with open-world embodied reasoning from pretrained knowledge](https://arxiv.org/abs/2505.21906) | [🌐](https://chatvla-2.github.io/) | - |
-| 2025 | ICML | [Diffusionvla: scaling robot foundation models via unified diffusion and autoregression](https://arxiv.org/abs/2412.03293v1) | [🌐](https://diffusion-vla.github.io/) | [🌐](https://github.com/juruobenruo/DexVLA) |
+| 2025 | ICML | [Diffusionvla: scaling robot foundation models via unified diffusion and autoregression](https://arxiv.org/abs/2412.03293v1) | [🌐](https://diffusion-vla.github.io/) | [💻](https://github.com/juruobenruo/DexVLA) |
 | 2025 | arXiv | [Trivla: a unified triple-system-based unified vision-language-action model for general robot control](https://arxiv.org/abs/2507.01424) | [🌐](https://zhenyangliu.github.io/TriVLA/) | - |
 | 2025 | arXiv | [Information-theoretic graph fusion with vision-language-action model for policy reasoning and dual robotic control](https://arxiv.org/abs/2508.05342) | - | - |
 | 2025 | arXiv | [Rationalvla: a rational vision-language-action model with dual system](https://arxiv.org/abs/2506.10826) | [🌐](https://irpn-eai.github.io/RationalVLA/) | - |
-| 2025 | ICCV | [Vq-vla: improving vision-language-action models via scaling vector-quantized action tokenizers](https://arxiv.org/abs/2507.01016) | [🌐](https://xiaoxiao0406.github.io/vqvla.github.io/) | [🌐](https://github.com/xiaoxiao0406/VQ-VLA) |
-| 2025 | RA-L | [Tinyvla: towards fast, data-efficient vision-language-action models for robotic manipulation](https://arxiv.org/abs/2409.12514) | [🌐](https://tiny-vla.github.io/) | [🌐](https://github.com/liyaxuanliyaxuan/TinyVLA) |
+| 2025 | ICCV | [Vq-vla: improving vision-language-action models via scaling vector-quantized action tokenizers](https://arxiv.org/abs/2507.01016) | [🌐](https://xiaoxiao0406.github.io/vqvla.github.io/) | [💻](https://github.com/xiaoxiao0406/VQ-VLA) |
+| 2025 | RA-L | [Tinyvla: towards fast, data-efficient vision-language-action models for robotic manipulation](https://arxiv.org/abs/2409.12514) | [🌐](https://tiny-vla.github.io/) | [💻](https://github.com/liyaxuanliyaxuan/TinyVLA) |
 | 2025 | RSS | [π0: A vision-language-action flow model for general robot control](https://arxiv.org/abs/2410.24164) | [🌐](https://www.physicalintelligence.company/blog/pi0) | - |
 | 2025 | RSS | [Fast: efficient action tokenization for vision-language-action models](https://arxiv.org/abs/2501.09747) | [🌐](https://www.pi.website/research/fast) | - |
 | 2025 | arXiv | [π0.5: a vision language-action model with open-world generalization](https://arxiv.org/abs/2504.16054) | [🌐](https://www.pi.website/blog/pi05) | - |
 | 2025 | arXiv | [Knowledge insulating vision-language-action models: train fast, run fast, generalize better](https://arxiv.org/abs/2505.23705) | [🌐](https://www.pi.website/research/knowledge_insulation) | - |
 | 2025 | arXiv | [Forcevla: enhancing vla models with a force-aware moe for contact-rich manipulation](https://arxiv.org/abs/2505.22159) | [🌐](https://sites.google.com/view/forcevla2025) | - |
-| 2025 | arXiv | [Smolvla: a vision-language-action model for affordable and efficient robotics](https://arxiv.org/abs/2506.01844) | - | [🌐](https://github.com/huggingface/lerobot) |
-| 2025 | arXiv | [Onetwovla: a unified vision-language-action model with adaptive reasoning](https://arxiv.org/abs/2505.11917) | [🌐](https://one-two-vla.github.io/) | [🌐](https://github.com/Fanqi-Lin/OneTwoVLA) |
+| 2025 | arXiv | [Smolvla: a vision-language-action model for affordable and efficient robotics](https://arxiv.org/abs/2506.01844) | - | [💻](https://github.com/huggingface/lerobot) |
+| 2025 | arXiv | [Onetwovla: a unified vision-language-action model with adaptive reasoning](https://arxiv.org/abs/2505.11917) | [🌐](https://one-two-vla.github.io/) | [💻](https://github.com/Fanqi-Lin/OneTwoVLA) |
 | 2025 | arXiv | [Tactile-vla: unlocking vision-language-action model’s physical knowledge for tactile generalization](https://arxiv.org/abs/2507.09160) | - | - |
 | 2025 | arXiv | [Gr-3 technical report](https://arxiv.org/abs/2507.15493) | [🌐](https://seed.bytedance.com/en/GR3/) | - |
-| 2025 | arXiv | [Villa-x: enhancing latent action modeling in vision-language-action models](https://arxiv.org/abs/2507.23682) | [🌐](https://microsoft.github.io/villa-x/) | [🌐](https://github.com/microsoft/villa-x/) |
+| 2025 | arXiv | [Villa-x: enhancing latent action modeling in vision-language-action models](https://arxiv.org/abs/2507.23682) | [🌐](https://microsoft.github.io/villa-x/) | [💻](https://github.com/microsoft/villa-x/) |
 
 
 ## Hierarchical Models
