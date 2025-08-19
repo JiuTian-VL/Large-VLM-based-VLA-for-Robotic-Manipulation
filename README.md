@@ -7,7 +7,7 @@
 
 🔥 Large VLM-based Vision-Language-Action (VLA) models have recently emerged as a transformative paradigm for robotic manipulation by tightly coupling perception, language understanding, and action generation. Built upon large Vision-Language Models (VLMs), they enable robots to interpret natural language instructions, perceive complex environments, and perform diverse manipulation tasks with strong generalization.    
 
-📍 We present **the first systematic survey on large VLM-based VLA models for robotic manipulation**. This repository serves as the companion resource to our survey: ["Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey"](https://arxiv.org/abs/xxxx.xxxxx), and includes all the research papers, benchmarks, and resources reviewed in the paper, organized for easy access and reference.
+📍 We present **the first systematic survey on large VLM-based VLA models for robotic manipulation**. This repository serves as the companion resource to our survey: ["Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey"](https://arxiv.org/pdf/2508.13073), and includes all the research papers, benchmarks, and resources reviewed in the paper, organized for easy access and reference.
 
 📌 We will keep updating this repository with newly published works to reflect the latest progress in the field. 
 
