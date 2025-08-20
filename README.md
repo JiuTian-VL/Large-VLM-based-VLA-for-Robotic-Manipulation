@@ -256,8 +256,8 @@
 | Year | Venue | Paper | Website | Code | Data |
 |------|-------|-------|---------|------|------|
 | 2021 | CoRL  | [BC-Z: Zero-shot task generalization with robotic imitation learning](https://proceedings.mlr.press/v164/jang22a/jang22a.pdf) | [🌐](https://sites.google.com/view/bc-z/home) | [💻](https://github.com/google-research/tensor2robot/tree/master/research/bcz) | [📦](https://www.kaggle.com/datasets/google/bc-z-robot) |
-| 2023 | RSS  | [RT‑1: Robotics Transformer for Real‑World Control at Scale](https://arxiv.org/abs/2212.06817) | [🌐](https://robotics-transformer1.github.io/) | [💻](https://github.com/google-research/robotics_transformer) |  [📦]  |
-| 2023 | CoRL  | [RT‑2: Vision‑Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2307.15818) | [🌐](https://robotics-transformer2.github.io/) | [💻](https://github.com/google-research/robotics_transformer) |  [📦]  |
+| 2023 | RSS  | [RT‑1: Robotics Transformer for Real‑World Control at Scale](https://arxiv.org/abs/2212.06817) | [🌐](https://robotics-transformer1.github.io/) | [💻](https://github.com/google-research/robotics_transformer) | - |
+| 2023 | CoRL  | [RT‑2: Vision‑Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2307.15818) | [🌐](https://robotics-transformer2.github.io/) | [💻](https://github.com/google-research/robotics_transformer) | - |
 | 2022 | RSS  | [Bridge Data: Boosting Generalization of Robotic Skills with Cross‑Domain Datasets](https://arxiv.org/abs/2109.13396) | [🌐](https://sites.google.com/view/bridgedata) | [💻](https://github.com/yanlai00/bridge_data_imitation_learning) | [📦](https://sites.google.com/view/bridgedata) |
 | 2023 | CoRL  | [BridgeData V2: A Dataset for Robot Learning at Scale](https://arxiv.org/abs/2308.12952) | [🌐](https://rail-berkeley.github.io/bridgedata/) | [💻](https://github.com/rail-berkeley/bridge_data_v2) | [📦](https://github.com/rail-berkeley/bridge_data_v2) |
 | 2024 | ICRA | [RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One‑Shot](https://arxiv.org/abs/2307.00595) | [🌐](https://rh20t.github.io/) | [💻](https://github.com/rh20t) | [📦](https://github.com/rh20t/act_baseline) |
@@ -302,11 +302,11 @@
 | 2024 | ECCV| [COM Kitchens: An Unedited Overhead‑View Video Dataset as a Vision‑Language Benchmark](https://arxiv.org/abs/2408.02272) | [🌐](https://github.com/omron-sinicx/com_kitchens) | [💻](https://github.com/omron-sinicx/com_kitchens) | [📦](https://github.com/omron-sinicx/com_kitchens) |
 | 2019 | ICCV | [EgoVQA: An Egocentric Video Question Answering Benchmark Dataset](https://openaccess.thecvf.com/content_ICCVW_2019/papers/EPIC/Fan_EgoVQA_-_An_Egocentric_Video_Question_Answering_Benchmark_Dataset_ICCVW_2019_paper.pdf) | [🌐](https://github.com/YaoMarkMu/EgoVQA) | [💻](https://github.com/YaoMarkMu/EgoVQA) | [📦](http://vision.soic.indiana.edu/identifying-1st-3rd/) |
 | 2022 | NeurIPS | [EgoTaskQA: Understanding Human Tasks in Egocentric Videos](https://arxiv.org/abs/2210.03929) | [🌐](https://sites.google.com/view/egotaskqa) | [💻](https://github.com/Buzz-Beater/EgoTaskQA) | [📦](https://sites.google.com/view/egotaskqa) |
-| 2025 | arXiv| [EgoDex: Learning Dexterous Manipulation from Large‑Scale Egocentric Video](https://arxiv.org/abs/2505.11709) | [🌐] | [💻] | [📦] |
+| 2025 | arXiv| [EgoDex: Learning Dexterous Manipulation from Large‑Scale Egocentric Video](https://arxiv.org/abs/2505.11709) | - | - | - |
 | 2024 | RSS | [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788) | [🌐](https://dex-cap.github.io/) | [💻](https://github.com/j96w/DexCap) | [📦](https://huggingface.co/datasets/chenwangj/DexCap-Data) |
 | 2024 | arXiv | [EgoMimic: Scaling Imitation Learning via Egocentric Video](https://arxiv.org/abs/2410.24221) | [🌐](https://egomimic.github.io/) | [💻](https://github.com/SimarKareer/EgoMimic-Eve) | [📦](https://huggingface.co/datasets/gatech/EgoMimic/tree/main) |
 | 2025 | CoRL | [Humanoid Policy ~ Human Policy](https://arxiv.org/abs/2503.13441) | [🌐](https://human-as-robot.github.io/) | [💻](https://github.com/RogerQi/human-policy) | [📦](https://huggingface.co/datasets/RogerQi/PH2D) |
-| 2025 | arXiv | [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](https://arxiv.org/abs/2505.09601) | [🌐](https://real2render2real.com/) | [💻](https://github.com/uynitsuj/real2render2real) | [📦] |
+| 2025 | arXiv | [Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware](https://arxiv.org/abs/2505.09601) | [🌐](https://real2render2real.com/) | [💻](https://github.com/uynitsuj/real2render2real) | - |
 
 ---
 
@@ -314,10 +314,10 @@
 | Year | Venue | Paper | Website | Code | Data |
 |------|-------|-------|---------|------|------|
 | 2018 | CVPR | [EQA: Embodied Question Answering](https://arxiv.org/abs/1711.11543) | [🌐](https://embodiedqa.org/) | [💻](https://github.com/facebookresearch/EmbodiedQA) | [📦](https://embodiedqa.org/data) |
-| 2018 | CVPR | [IQA: Visual Question Answering in Interactive Environments](https://arxiv.org/abs/1712.03316) | [🌐]| [💻](https://github.com/danielgordon10/thor-iqa-cvpr-2018) | [📦] |
+| 2018 | CVPR | [IQA: Visual Question Answering in Interactive Environments](https://arxiv.org/abs/1712.03316) | - | [💻](https://github.com/danielgordon10/thor-iqa-cvpr-2018) | - |
 | 2019 | CVPR | [MT‑EQA: Multi‑Target Embodied Question Answering](https://arxiv.org/abs/1904.04686) | [🌐](https://embodiedqa.org/) | [💻](https://github.com/facebookresearch/EmbodiedQA) | [📦](https://embodiedqa.org/data) |
 | 2019 | CVPR | [Embodied Question Answering in Photorealistic Environments with Point Cloud Perception](https://arxiv.org/abs/1904.03461) | [🌐](https://embodiedqa.org/) | [💻](https://github.com/facebookresearch/EmbodiedQA) | [📦](https://embodiedqa.org/data) |
-| 2023 | ICLR | [EQA‑MX: Embodied Question Answering using Multimodal Expression](https://openreview.net/pdf) | [🌐] | [💻] | [📦] |
+| 2023 | ICLR | [EQA‑MX: Embodied Question Answering using Multimodal Expression](https://openreview.net/pdf) | - | - | - |
 | 2024 | CVPR | [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) | [🌐](https://open-eqa.github.io/) | [💻](https://github.com/facebookresearch/open-eqa) | [📦](https://github.com/facebookresearch/open-eqa) |
 | 2024 | ICLR | [LoTa‑Bench: Benchmarking Language‑oriented Task Planners for Embodied Agents](https://arxiv.org/abs/2402.08178) | [🌐](https://choi-jaewoo.github.io/LoTa-Bench/) | [💻](https://github.com/lbaa2022/LLMTaskPlanning) | [📦](https://github.com/lbaa2022/LLMTaskPlanning) |
 
