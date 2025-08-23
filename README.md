@@ -1,9 +1,19 @@
-<div align="center">
+<div align="center"> 
 
-# Awesome VLA for Robotic Manipulation
+# Awesome VLA for Robotic Manipulation 
 
-<p align="center"><big><big><big><big><big><big><strong>⭐ Give us a star if you like it! ⭐</strong></big></big><big><big><big><big></p>
-<img src="./pipline & timeline.png" alt="image info">
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="64" role="img" aria-label="Give us a star if you like it!">
+    <text x="50%" y="60%" text-anchor="middle"
+          font-size="28" font-weight="700"
+          font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial"
+          fill="white">
+      ⭐ Give us a star if you like it! ⭐
+    </text>
+  </svg>
+</p>
+
+<img src="./pipline & timeline.png" alt="image info"> 
 
 </div>
 
