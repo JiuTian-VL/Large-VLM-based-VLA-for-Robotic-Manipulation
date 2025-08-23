@@ -5,7 +5,7 @@
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="64" role="img" aria-label="Give us a star if you like it!">
     <text x="50%" y="60%" text-anchor="middle"
-          font-size="28" font-weight="700"
+          font-size="50" font-weight="700"
           font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial"
           fill="white">
       ⭐ Give us a star if you like it! ⭐
