@@ -328,6 +328,27 @@
 | 2024 | ICLR | [LoTa‑Bench: Benchmarking Language‑oriented Task Planners for Embodied Agents](https://arxiv.org/abs/2402.08178) | [🌐](https://choi-jaewoo.github.io/LoTa-Bench/) | [💻](https://github.com/lbaa2022/LLMTaskPlanning) | [📦](https://github.com/lbaa2022/LLMTaskPlanning) |
 
 
+## 🔖 Citation
+
+If you find this survey helpful for your research or applications, please consider citing it using the following BibTeX entry:
+
+```
+@misc{shao2025largevlmbasedvisionlanguageactionmodels,
+      title={Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey}, 
+      author={Rui Shao and Wei Li and Lingsen Zhang and Renshan Zhang and Zhiyang Liu and Ran Chen and Liqiang Nie},
+      year={2025},
+      eprint={2508.13073},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2508.13073}, 
+}
+```
+
+## 📧 Contact Us
+
+For any questions or suggestions, please feel free to contact us at:
+
+Email: shaorui@hit.edu.cn and liwei2024@stu.hit.edu.cn
 
 
 
