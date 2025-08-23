@@ -15,7 +15,7 @@
 
 📍 We present **the first systematic survey on large VLM-based VLA models for robotic manipulation**. This repository serves as the companion resource to our survey: ["Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey"](https://arxiv.org/pdf/2508.13073), and includes all the research papers, benchmarks, and resources reviewed in the paper, organized for easy access and reference.
 
-📌 We will keep updating this repository with newly published works to reflect the latest progress in the field. 
+📌 We will **keep updating** this repository with newly published works to reflect the latest progress in the field. 
 
 
 ## Table of Contents
