@@ -1,7 +1,15 @@
+<div align="center">
+
 # Awesome VLA for Robotic Manipulation
 
-<div style="text-align: center;">
+<p align="center">
+  <big><big><big><strong>⭐ Give us a star if you like it! ⭐</strong></big></big><big>
+</p>
+
+<p align="center">
   <img src="./pipline & timeline.png" alt="image info">
+</p>
+
 </div>
 
 
@@ -274,7 +282,7 @@
 |------|-------|-------|---------|------|------|
 | 2022 | CoRL | [BEHAVIOR‑1K: A Human‑Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation](https://arxiv.org/abs/2403.09227) | [🌐](https://behavior.stanford.edu/) | [💻](https://github.com/StanfordVL/BEHAVIOR-1K) | [📦](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | 2020 | CVPR | [ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks](https://arxiv.org/abs/1912.01734) | [🌐](https://askforalfred.com/) | [💻](https://github.com/askforalfred/alfred) | [📦](https://askforalfred.com/) |
-| 2020 | RA-L | [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) | [🌐](https://sites.google.com/view/rlbench) | [💻](https://github.com/stepjam/RLBench) | [📦]([https://askforalfred.com/](https://huggingface.co/datasets/hqfang/RLBench-18-Tasks)) |
+| 2020 | RA-L | [RLBench: The Robot Learning Benchmark & Learning Environment](https://arxiv.org/abs/1909.12271) | [🌐](https://sites.google.com/view/rlbench) | [💻](https://github.com/stepjam/RLBench) | [📦](https://huggingface.co/datasets/hqfang/RLBench-18-Tasks) |
 | 2024 | arXiv | [PerAct²: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks](https://arxiv.org/abs/2407.00278) | [🌐](http://bimanual.github.io/) | [💻](https://github.com/markusgrotz/peract_bimanual) | [📦](https://bimanual.github.io/) |
 | 2020 | CoRL | [Meta‑World: A Benchmark and Evaluation for Multi‑Task and Meta Reinforcement Learning](https://arxiv.org/abs/1910.10897) | [🌐](https://meta-world.github.io/) | [💻](https://github.com/Farama-Foundation/Metaworld) | [📦](https://github.com/Farama-Foundation/Metaworld) |
 | 2019 | CoRL | [Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning](https://arxiv.org/abs/1910.11956) | [🌐](https://relay-policy-learning.github.io/) | [💻](https://github.com/google-research/relay-policy-learning) | [📦](https://minari.farama.org/datasets/D4RL/index.html) |
