@@ -38,6 +38,8 @@
     - [Simulation Environments and Benchmarks](#simulation-environments-and-benchmarks)
     - [Human Behavior Datasets](#human-behavior-datasets)
     - [Embodied Datasets and Benchmarks](#embodied-datasets-and-benchmarks)
+  - [🔖 Citation](#🔖-citation)
+  - [📧 Contact Us](#📧-contact-us)
 
 
 ## Monolithic Models
