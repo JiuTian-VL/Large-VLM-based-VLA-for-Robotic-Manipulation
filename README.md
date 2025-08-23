@@ -2,13 +2,8 @@
 
 # Awesome VLA for Robotic Manipulation
 
-<p align="center">
-  <big><big><big><strong>⭐ Give us a star if you like it! ⭐</strong></big></big><big>
-</p>
-
-<p align="center">
-  <img src="./pipline & timeline.png" alt="image info">
-</p>
+<h1><strong>⭐ Give us a star if you like it! ⭐</strong></h1>
+<img src="./pipline & timeline.png" alt="image info">
 
 </div>
 
