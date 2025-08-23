@@ -38,8 +38,8 @@
     - [Simulation Environments and Benchmarks](#simulation-environments-and-benchmarks)
     - [Human Behavior Datasets](#human-behavior-datasets)
     - [Embodied Datasets and Benchmarks](#embodied-datasets-and-benchmarks)
-  - [🔖 Citation](#🔖-citation)
-  - [📧 Contact Us](#📧-contact-us)
+  - [🔖 Citation](#citation)
+  - [📧 Contact Us](#contact-us)
 
 
 ## Monolithic Models
@@ -330,7 +330,7 @@
 | 2024 | ICLR | [LoTa‑Bench: Benchmarking Language‑oriented Task Planners for Embodied Agents](https://arxiv.org/abs/2402.08178) | [🌐](https://choi-jaewoo.github.io/LoTa-Bench/) | [💻](https://github.com/lbaa2022/LLMTaskPlanning) | [📦](https://github.com/lbaa2022/LLMTaskPlanning) |
 
 
-## 🔖 Citation
+## Citation
 
 If you find this survey helpful for your research or applications, please consider citing it using the following BibTeX entry:
 
@@ -346,7 +346,7 @@ If you find this survey helpful for your research or applications, please consid
 }
 ```
 
-## 📧 Contact Us
+## Contact Us
 
 For any questions or suggestions, please feel free to contact us at:
 
