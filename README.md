@@ -1,9 +1,10 @@
 <div align="center"> 
 
 # Awesome VLM-based VLA for Robotic Manipulation 
+[![arXiv](https://img.shields.io/badge/Arxiv-Large_VLM--based_VLA-red?logo=arxiv)](https://arxiv.org/abs/2508.13073)
 
 <h3 align="center">
-  <strong>⭐ Give us a star if you like it! ⭐</strong>
+  <strong>🛠️ We're still cooking — Stay tuned!🛠️<br>⭐ Give us a star if you like it! ⭐</strong>
 </h3>
 
 <img src="./pipline & timeline.png" alt="image info"> 
