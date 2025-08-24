@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Awesome VLA for Robotic Manipulation 
+# Awesome VLM-based VLA for Robotic Manipulation 
 
 <h3 align="center">
   <strong>⭐ Give us a star if you like it! ⭐</strong>
