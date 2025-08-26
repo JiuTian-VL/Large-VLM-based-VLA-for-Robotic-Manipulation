@@ -226,6 +226,7 @@
 | 2025 | arXiv | [TGRPO: Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization](https://arxiv.org/abs/2506.08440) | - | - |
 | 2025 | ICRA | [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664) | - | - |
 | 2025 | CVPR(Workshop) | [Interactive Post‑Training for Vision‑Language‑Action Models](https://arxiv.org/abs/2505.17016) | [🌐](https://ariostgx.github.io/ript_vla/) | [💻](https://github.com/Ariostgx/ript-vla) |
+| 2025 | arXiv | [Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998) | [🌐](https://embodied-r1.github.io/) | [💻](https://github.com/pickxiguapi/Embodied-R1) |
 
 ---
 
@@ -240,6 +241,7 @@
 | 2025 | arXiv | [Block-wise Adaptive Caching for Accelerating Diffusion Policy](https://arxiv.org/abs/2506.13456) | - | - |
 | 2025 | RSS | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.roboticsproceedings.org/rss21/p012.pdf) | [🌐](https://www.pi.website/research/fast) | - |
 | 2025 | arXiv | [Real-Time Execution of Action Chunking Flow Policies](https://arxiv.org/abs/2506.07339) | [🌐](https://www.pi.website/research/real_time_chunking) | - |
+
 ---
 
 ### Learning from Human Videos
