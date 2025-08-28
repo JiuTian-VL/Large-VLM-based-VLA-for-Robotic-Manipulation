@@ -340,6 +340,7 @@
 | 2024 | CVPR | [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) | [🌐](https://open-eqa.github.io/) | [💻](https://github.com/facebookresearch/open-eqa) | [📦](https://github.com/facebookresearch/open-eqa) |
 | 2024 | ICLR | [LoTa‑Bench: Benchmarking Language‑oriented Task Planners for Embodied Agents](https://arxiv.org/abs/2402.08178) | [🌐](https://choi-jaewoo.github.io/LoTa-Bench/) | [💻](https://github.com/lbaa2022/LLMTaskPlanning) | [📦](https://github.com/lbaa2022/LLMTaskPlanning) |
 
+[![Star History Chart](https://api.star-history.com/svg?repos=JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation&Date)](https://www.star-history.com/#JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation&Date)
 
 ## Citation
 
