@@ -140,7 +140,8 @@
 | 2024 | IROS | [From llms to actions: latent codes as bridges in hierarchical robot control](https://arxiv.org/abs/2405.04798) | - | - |
 | 2025 | arXiv | [Gr00t n1: an open foundation model for generalist humanoid robots](https://arxiv.org/abs/2503.14734) | - | - |
 | 2024 | arXiv | [Cogact: a foundational vision-language-action model for synergizing cognition and action in robotic manipulation](https://arxiv.org/abs/2411.19650) | [🌐](https://cogact.github.io/) | [💻](https://github.com/microsoft/CogACT) |
-| 2025 | CoRL | [Hirt: enhancing robotic control with hierarchical robot transformers](https://arxiv.org/abs/2410.05273) | - | - |
+| 2024 | CoRL | [Hirt: enhancing robotic control with hierarchical robot transformers](https://arxiv.org/abs/2410.05273) | - | - |
+| 2025 | arXiv | [GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](https://arxiv.org/abs/2505.03233) | [🌐](https://pku-epic.github.io/GraspVLA-web/) | [💻](https://github.com/PKU-EPIC/GraspVLA) |
 | 2025 | arXiv | [Fast-in-slow: a dual-system foundation model unifying fast manipulation within slow reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [💻](https://github.com/CHEN-H01/Fast-in-Slow) |
 | 2025 | arXiv | [Openhelix: A short survey, empirical analysis, and open-source dual-system vla model for robotic manipulation](https://arxiv.org/abs/2505.03912) | [🌐](https://openhelix-robot.github.io/) | [💻](https://github.com/OpenHelix-robot/OpenHelix) |
 | 2025 | arXiv | [Chatvla: unified multimodal understanding and robot control with vision-language-action model](https://arxiv.org/abs/2502.14420) | [🌐](https://chatvla.github.io/) | [💻](https://github.com/tutujingyugang1/ChatVLA_public) |
