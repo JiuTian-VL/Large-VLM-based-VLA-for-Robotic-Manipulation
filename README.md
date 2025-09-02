@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Awesome VLM-based VLA for Robotic Manipulation 
+# Awesome Large VLM-based VLA for Robotic Manipulation 
 [![arXiv](https://img.shields.io/badge/Arxiv-Large_VLM--based_VLA-red?logo=arxiv)](https://arxiv.org/abs/2508.13073)
 [![Lab](https://img.shields.io/badge/Lab-JiuTian--VL-blue?link=https%3A%2F%2Fgithub.com%2FJiuTian-VL)](https://github.com/JiuTian-VL)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation/pulls)
