@@ -208,9 +208,7 @@
 | 2025 | arXiv | [π0.5: A vision-language-action model with open-world generalization](https://arxiv.org/abs/2504.16054) | [🌐](https://pi.website/blog/pi05) | - |
 | 2025 | arXiv | [DexGraspVLA: A vision-language-action framework towards general dexterous grasping](https://arxiv.org/abs/2502.20900) | [🌐](https://dexgraspvla.github.io/) | [💻](https://github.com/Psi-Robot/DexGraspVLA) |
 | 2025 | arXiv | [HiBerNAC: Hierarchical brain-emulated robotic neural agent collective for disentangling complex manipulation](https://arxiv.org/abs/2506.08296) | - | - |
-
-
-
+| 2025 | arXiv | [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://arxiv.org/pdf/2509.01106) | [🌐](https://robix-seed.github.io/robix/) | - |
 
 
 
