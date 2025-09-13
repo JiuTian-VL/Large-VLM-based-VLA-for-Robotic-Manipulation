@@ -130,6 +130,7 @@
 | 2025 | arXiv | [ST-VLA: Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding](https://arxiv.org/abs/2508.09032) | [🌐](https://ampiromax.github.io/ST-VLA/) | - |
 | 2025 | arXiv | [Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072) | - | - |
 | 2025 | arXiv | [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/abs/2509.06932) | [🌐](https://wenyuqing.github.io/llada-vla/) | - |
+| 2025 | arXiv | [OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision](https://arxiv.org/abs/2509.05578) | - | - |
 
 ---
 
