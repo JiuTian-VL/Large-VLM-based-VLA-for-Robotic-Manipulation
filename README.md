@@ -165,7 +165,7 @@
 | 2025 | arXiv | [Gr-3 technical report](https://arxiv.org/abs/2507.15493) | [🌐](https://seed.bytedance.com/en/GR3/) | - |
 | 2025 | arXiv | [Villa-x: enhancing latent action modeling in vision-language-action models](https://arxiv.org/abs/2507.23682) | [🌐](https://microsoft.github.io/villa-x/) | [💻](https://github.com/microsoft/villa-x/) |
 | 2025 | arXiv | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | [🌐](https://jasper0314-huang.github.io/thinkact-vla/) | - |
-
+| 2025 | arXiv | [F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions](https://arxiv.org/abs/2509.06951) | [🌐](https://aopolin-lv.github.io/F1-VLA/) | [💻](https://github.com/InternRobotics/F1-VLA) |
 
 ## Hierarchical Models
 
