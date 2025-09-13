@@ -243,6 +243,7 @@
 | 2025 | arXiv | [Block-wise Adaptive Caching for Accelerating Diffusion Policy](https://arxiv.org/abs/2506.13456) | - | - |
 | 2025 | RSS | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://www.roboticsproceedings.org/rss21/p012.pdf) | [🌐](https://www.pi.website/research/fast) | - |
 | 2025 | arXiv | [Real-Time Execution of Action Chunking Flow Policies](https://arxiv.org/abs/2506.07339) | [🌐](https://www.pi.website/research/real_time_chunking) | - |
+| 2025 | arXiv | [SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](https://arxiv.org/abs/2509.05614) | - | - |
 
 ---
 
