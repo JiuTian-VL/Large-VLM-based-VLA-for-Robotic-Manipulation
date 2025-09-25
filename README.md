@@ -229,7 +229,7 @@
 | 2025 | ICRA | [Improving Vision-Language-Action Model with Online Reinforcement Learning](https://arxiv.org/abs/2501.16664) | - | - |
 | 2025 | CVPR(Workshop) | [Interactive Post‑Training for Vision‑Language‑Action Models](https://arxiv.org/abs/2505.17016) | [🌐](https://ariostgx.github.io/ript_vla/) | [💻](https://github.com/Ariostgx/ript-vla) |
 | 2025 | arXiv | [Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation](https://arxiv.org/abs/2508.13998) | [🌐](https://embodied-r1.github.io/) | [💻](https://github.com/pickxiguapi/Embodied-R1) |
-
+| 2025 | arXiv | [VLAC: A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning](https://www.arxiv.org/abs/2509.15937) | [🌐](https://vlac.intern-ai.org.cn/) | [💻](https://github.com/InternRobotics/VLAC) |
 ---
 
 ### Training-Free Methods
