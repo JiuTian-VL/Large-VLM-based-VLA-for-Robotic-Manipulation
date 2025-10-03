@@ -272,6 +272,7 @@
 | 2025 | arXiv | [V‑JEPA 2: Self‑Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | [🌐](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/) | [💻](https://github.com/facebookresearch/vjepa2) |
 | 2025 | arXiv | [FlowVLA: Thinking in Motion with a Visual Chain of Thought](https://arxiv.org/abs/2508.18269) | [🌐](https://irpn-lab.github.io/FlowVLA/) | - |
 | 2025 | arXiv | [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/abs/2508.05635) | [🌐](https://genie-envisioner.github.io/) | [💻](https://github.com/AgibotTech/Genie-Envisioner) | 
+| 2025 | arXiv | [WoW: Towards a World-omniscient World-model Through Embodied Interaction](https://arxiv.org/abs/2509.22642) | [🌐](https://wow-world-model.github.io/) | [💻](https://github.com/wow-world-model/wow-world-model) | 
 
 ## Datasets and Benchmarks
 
