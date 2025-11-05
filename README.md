@@ -10,7 +10,7 @@
 
 
 <h3 align="center">
-  <strong>🛠️ We're still cooking — Stay tuned!🛠️<br>⭐ Give us a star if you like it! ⭐</strong>
+  <strong>🛠️ We're still cooking — Stay tuned!🛠️<br>⭐ Give us a star if you like it! ⭐ <br> ✨If you find this work useful for your research, please kindly cite our paper.✨ </strong>
 </h3>
 
 <img src="./pipline & timeline.png" alt="image info"> 
