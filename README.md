@@ -208,7 +208,7 @@
 | 2025 | arXiv | [From seeing to doing: Bridging reasoning and decision for robotic manipulation](https://arxiv.org/abs/2505.08548) | [🌐](https://embodied-fsd.github.io/) | [💻](https://github.com/pickxiguapi/Embodied-FSD) |
 | 2025 | ICCV | [RoBridge: A hierarchical architecture bridging cognition and execution for general robotic manipulation](https://arxiv.org/abs/2505.01709) | [🌐](https://abliao.github.io/RoBridge/) | [💻](https://github.com/abliao/RoBridge) |
 | 2025 | arXiv | [RoboCerebra: A large-scale benchmark for long-horizon robotic manipulation evaluation](https://arxiv.org/abs/2506.06677) | [🌐](https://robocerebra.github.io/) | - |
-| 2025 | arXiv | [π0.5: A vision-language-action model with open-world generalization](https://arxiv.org/abs/2504.16054) | [🌐](https://pi.website/blog/pi05) | - |
+| 2025 | arXiv | [π0.5: A vision-language-action model with open- generalization](https://arxiv.org/abs/2504.16054) | [🌐](https://pi.website/blog/pi05) | - |
 | 2025 | arXiv | [DexGraspVLA: A vision-language-action framework towards general dexterous grasping](https://arxiv.org/abs/2502.20900) | [🌐](https://dexgraspvla.github.io/) | [💻](https://github.com/Psi-Robot/DexGraspVLA) |
 | 2025 | arXiv | [HiBerNAC: Hierarchical brain-emulated robotic neural agent collective for disentangling complex manipulation](https://arxiv.org/abs/2506.08296) | - | - |
 | 2025 | arXiv | [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://arxiv.org/pdf/2509.01106) | [🌐](https://robix-seed.github.io/robix/) | - |
@@ -273,6 +273,8 @@
 | 2025 | arXiv | [FlowVLA: Thinking in Motion with a Visual Chain of Thought](https://arxiv.org/abs/2508.18269) | [🌐](https://irpn-lab.github.io/FlowVLA/) | - |
 | 2025 | arXiv | [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/abs/2508.05635) | [🌐](https://genie-envisioner.github.io/) | [💻](https://github.com/AgibotTech/Genie-Envisioner) | 
 | 2025 | arXiv | [WoW: Towards a World-omniscient World-model Through Embodied Interaction](https://arxiv.org/abs/2509.22642) | [🌐](https://wow-world-model.github.io/) | [💻](https://github.com/wow-world-model/wow-world-model) | 
+| 2025 | arXiv | [WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation](http://arxiv.org/html/2510.07313v1) | [🌐](https://wrist-world.github.io/) | [💻](https://github.com/XuWuLingYu/WristWorld) |
+
 
 ## Datasets and Benchmarks
 
