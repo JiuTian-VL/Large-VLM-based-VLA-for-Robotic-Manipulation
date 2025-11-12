@@ -131,6 +131,7 @@
 | 2025 | arXiv | [Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072) | - | - |
 | 2025 | arXiv | [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/abs/2509.06932) | [🌐](https://wenyuqing.github.io/llada-vla/) | - |
 | 2025 | arXiv | [OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision](https://arxiv.org/abs/2509.05578) | - | - |
+| 2025 | arXiv | [TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models](https://arxiv.org/abs/2511.05275v1) | [🌐](https://jellyho.github.io/TwinVLA/) | - |
 
 ---
 
