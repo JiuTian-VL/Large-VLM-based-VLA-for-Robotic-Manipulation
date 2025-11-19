@@ -167,10 +167,10 @@
 | 2025 | arXiv | [Villa-x: enhancing latent action modeling in vision-language-action models](https://arxiv.org/abs/2507.23682) | [🌐](https://microsoft.github.io/villa-x/) | [💻](https://github.com/microsoft/villa-x/) |
 | 2025 | arXiv | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | [🌐](https://jasper0314-huang.github.io/thinkact-vla/) | - |
 | 2025 | arXiv | [F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions](https://arxiv.org/abs/2509.06951) | [🌐](https://aopolin-lv.github.io/F1-VLA/) | [💻](https://github.com/InternRobotics/F1-VLA) |
-| 2025 | arXiv | [iFlyBot-VLA](https://arxiv.org/abs/2511.01914) | [🌐](https://xuwenjie401.github.io/iFlyBot-VLA.github.io/) | - |
-| 2025 | arXiv | [Evo-1](https://arxiv.org/abs/2511.04555) | [🌐](https://mint-sjtu.github.io/Evo-1.io/) | [💻](https://github.com/MINT-SJTU/Evo-1) |
-| 2025 | arXiv | [NORA-1.5](https://arxiv.org/abs/2511.14659) | [🌐](https://declare-lab.github.io/nora-1.5) | [💻](https://declare-lab.github.io/nora-1.5) |
-| 2025 | arXiv | [π*0.6](https://www.physicalintelligence.company/download/pistar06.pdf) | [🌐](https://www.physicalintelligence.company/blog/pistar06) | - |
+| 2025 | arXiv | [iFlyBot-VLA Technical Report](https://arxiv.org/abs/2511.01914) | [🌐](https://xuwenjie401.github.io/iFlyBot-VLA.github.io/) | - |
+| 2025 | arXiv | [Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment](https://arxiv.org/abs/2511.04555) | [🌐](https://mint-sjtu.github.io/Evo-1.io/) | [💻](https://github.com/MINT-SJTU/Evo-1) |
+| 2025 | arXiv | [NORA-1.5: A Vision-Language-Action Model Trained using World Model- and Action-based Preference Rewards](https://arxiv.org/abs/2511.14659) | [🌐](https://declare-lab.github.io/nora-1.5) | [💻](https://declare-lab.github.io/nora-1.5) |
+| 2025 | arXiv | [π*0.6: a VLA that Learns from Experience](https://www.physicalintelligence.company/download/pistar06.pdf) | [🌐](https://www.physicalintelligence.company/blog/pistar06) | - |
 
 ## Hierarchical Models
 
