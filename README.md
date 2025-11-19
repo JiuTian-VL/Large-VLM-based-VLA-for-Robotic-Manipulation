@@ -168,6 +168,7 @@
 | 2025 | arXiv | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | [🌐](https://jasper0314-huang.github.io/thinkact-vla/) | - |
 | 2025 | arXiv | [F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions](https://arxiv.org/abs/2509.06951) | [🌐](https://aopolin-lv.github.io/F1-VLA/) | [💻](https://github.com/InternRobotics/F1-VLA) |
 | 2025 | arXiv | [iFlyBot-VLA](https://arxiv.org/abs/2511.01914) | [🌐](https://xuwenjie401.github.io/iFlyBot-VLA.github.io/) | - |
+| 2025 | arXiv | [Evo-1](https://arxiv.org/abs/2511.04555) | [🌐](https://mint-sjtu.github.io/Evo-1.io/) | [💻](https://github.com/MINT-SJTU/Evo-1) |
 
 ## Hierarchical Models
 
