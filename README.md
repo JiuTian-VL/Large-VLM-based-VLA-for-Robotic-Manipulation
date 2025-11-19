@@ -170,6 +170,7 @@
 | 2025 | arXiv | [iFlyBot-VLA](https://arxiv.org/abs/2511.01914) | [🌐](https://xuwenjie401.github.io/iFlyBot-VLA.github.io/) | - |
 | 2025 | arXiv | [Evo-1](https://arxiv.org/abs/2511.04555) | [🌐](https://mint-sjtu.github.io/Evo-1.io/) | [💻](https://github.com/MINT-SJTU/Evo-1) |
 | 2025 | arXiv | [NORA-1.5](https://arxiv.org/abs/2511.14659) | [🌐](https://declare-lab.github.io/nora-1.5) | [💻](https://declare-lab.github.io/nora-1.5) |
+| 2025 | arXiv | [π*0.6](https://www.physicalintelligence.company/download/pistar06.pdf) | [🌐](https://www.physicalintelligence.company/blog/pistar06) | - |
 
 ## Hierarchical Models
 
