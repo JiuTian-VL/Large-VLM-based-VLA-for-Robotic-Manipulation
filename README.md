@@ -278,6 +278,7 @@
 | 2025 | arXiv | [FlowVLA: Thinking in Motion with a Visual Chain of Thought](https://arxiv.org/abs/2508.18269) | [🌐](https://irpn-lab.github.io/FlowVLA/) | - |
 | 2025 | arXiv | [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/abs/2508.05635) | [🌐](https://genie-envisioner.github.io/) | [💻](https://github.com/AgibotTech/Genie-Envisioner) | 
 | 2025 | arXiv | [WoW: Towards a World-omniscient World-model Through Embodied Interaction](https://arxiv.org/abs/2509.22642) | [🌐](https://wow-world-model.github.io/) | [💻](https://github.com/wow-world-model/wow-world-model) | 
+| 2025 | arXiv | [WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation](http://arxiv.org/html/2510.07313v1) | [🌐](https://wrist-world.github.io/) | [💻](https://github.com/XuWuLingYu/WristWorld) |
 
 ## Datasets and Benchmarks
 
