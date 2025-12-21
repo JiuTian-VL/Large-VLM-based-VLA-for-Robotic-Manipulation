@@ -132,6 +132,7 @@
 | 2025 | arXiv | [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/abs/2509.06932) | [🌐](https://wenyuqing.github.io/llada-vla/) | - |
 | 2025 | arXiv | [OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision](https://arxiv.org/abs/2509.05578) | - | - |
 | 2025 | arXiv | [TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models](https://arxiv.org/abs/2511.05275v1) | [🌐](https://jellyho.github.io/TwinVLA/) | - |
+| 2025 | arXiv | [STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models](https://arxiv.org/abs/2512.05107) | [🌐](https://sites.google.com/view/stare-vla) | - |
 
 ---
 
@@ -168,6 +169,8 @@
 | 2025 | arXiv | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | [🌐](https://jasper0314-huang.github.io/thinkact-vla/) | - |
 | 2025 | arXiv | [F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions](https://arxiv.org/abs/2509.06951) | [🌐](https://aopolin-lv.github.io/F1-VLA/) | [💻](https://github.com/InternRobotics/F1-VLA) |
 | 2025 | arXiv | [iFlyBot-VLA](https://arxiv.org/abs/2511.01914) | [🌐](https://xuwenjie401.github.io/iFlyBot-VLA.github.io/) | - |
+| 2025 | arXiv | [ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation](https://arxiv.org/abs/2512.02013) | [🌐](https://sites.google.com/view/maunalvla/) | - |
+| 2025 | arXiv | [METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model](https://arxiv.org/abs/2511.17366) | [🌐](https://aureleopku.github.io/METIS/) | - |
 
 ## Hierarchical Models
 
@@ -275,6 +278,7 @@
 | 2025 | arXiv | [FlowVLA: Thinking in Motion with a Visual Chain of Thought](https://arxiv.org/abs/2508.18269) | [🌐](https://irpn-lab.github.io/FlowVLA/) | - |
 | 2025 | arXiv | [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/abs/2508.05635) | [🌐](https://genie-envisioner.github.io/) | [💻](https://github.com/AgibotTech/Genie-Envisioner) | 
 | 2025 | arXiv | [WoW: Towards a World-omniscient World-model Through Embodied Interaction](https://arxiv.org/abs/2509.22642) | [🌐](https://wow-world-model.github.io/) | [💻](https://github.com/wow-world-model/wow-world-model) | 
+| 2025 | arXiv | [RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL](https://arxiv.org/abs/2512.03556v1) | - | - | 
 
 ## Datasets and Benchmarks
 
