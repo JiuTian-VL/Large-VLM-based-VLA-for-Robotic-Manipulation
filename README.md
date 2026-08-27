@@ -10,7 +10,7 @@
 
 
 <h3 align="center">
-  <strong>🛠️ We're still cooking — Stay tuned!🛠️<br>⭐ Give us a star if you like it! ⭐ <br> ✨If you find this work useful for your research, please kindly cite our paper.✨ <br>  📢 Update: Under Major Revision at IEEE TPAMI. </strong>
+  <strong>🛠️ We're still cooking — Stay tuned!🛠️<br>⭐ Give us a star if you like it! ⭐ <br> ✨If you find this work useful for your research, please kindly cite our paper.✨ <br>  📢 Update: Under Minor Revision at IEEE TPAMI. </strong>
 </h3>
 
 <img src="./pipline & timeline.png" alt="image info"> 
